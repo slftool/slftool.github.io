@@ -1,184 +1,132 @@
 {
-    "a": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "b": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "c": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "d": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "e": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "f": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "g": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "h": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "i": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "j": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "k": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "l": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "m": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "n": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "o": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "p": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "q": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "r": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "s": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "t": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "u": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "v": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "w": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "x": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "y": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ],
-    "z": [
-        {
-            "stadt": "1",
-            "land": "1",
-            "fluss": "3"
-        }
-    ]
+    "a": {
+        "stadt": ["Aalen", "Aachen", "Amberg", "Athen (Griechenland)"],
+        "land": ["Albanien", "Armenien", "Andorra", "Algerien"],
+        "fluss": ["Aller (Deutschland)", "Amazonas (Brasilien)", "Alz (Deutschland)", "Ätran (Schweden)"]
+    },
+    "b": {
+        "stadt": ["Bamberg", "Bonn", "Böblingen", "Boston", "Birmingham"],
+        "land": ["Belgien", "Brasilien", "Bolivien", "Bermudas", "Bahrain"],
+        "fluss": ["Bigge (Deutschland)", "Brahmaputra (u.a. Indien)", "Belaja (Russland)", "Blies (Frankreich und Deutschland)"]
+    },
+    "c": {
+        "stadt": ["Chemnitz (Deutschland)", "Cuxhaven (Deutschland)", "Castrop-Rauxel (Deutschland)", "Charleston (USA)", "Calvi (Frankreich)"],
+        "land": ["China", "Costa Rica", "Chile", "Cookinseln"],
+        "fluss": ["Chemnitz (Deutschland)", "Colorado (USA)", "Charente (Frankreich)", "Churchill River (Kanada)"]
+    },
+    "d": {
+        "stadt": ["Dresden (Deutschland)", "Dortmund (Deutschland)", "Dorsten (Deutschland)", "Dublin (Irland)", "Dayton (USA)"],
+        "land": ["Deutschland", "Dänemark", "Dominikanische Republik", "Dschibuti"],
+        "fluss": ["Donau (Europa)", "Don (Russland)", "Dnister (Ukraine)", "Dinkel (Deutschland)"]
+    },
+    "e": {
+        "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)"],
+        "land": ["Estland", "Ecuador", "El Salvador", "Eritrea"],
+        "fluss": ["Ems (Deutschland)", "Emscher (Deutschland)", "Elbe (Europa)", "Euphrat (Asien)", "Ebro (Spanien)"]
+    },
+    "f": {
+        "stadt": ["Frankfurt (Main/Oder) (Deutschland)", "Fürth (Deutschland)", "Faro (Portugal)", "Florenz (Italien)", "Fort Lauderdale (USA)"],
+        "land": ["Finnland", "Frankreich", "Fidschi"],
+        "fluss": ["Fulda (Deutschland)", "Fraser River (Kanada)", "Fly ( Neuguinea)"]
+    },
+    "g": {
+        "stadt": ["Gera (Deutschland)", "Gerolstein (Deutschland)", "Göteborg (Schweden)", "Genf (Schweiz)", "Greenville (USA)"],
+        "land": ["Georgien", "Ghana", "Griechenland", "Guinea", "Gambia"],
+        "fluss": ["Ganges (Indien)", "Gera (Deutschland)", "Green River (USA)", "Godavari (Indien)", "Gail (Österreich)"]
+    },
+    "h": {
+        "stadt": ["Hannover (Deutschland)", "Herne (Deutschland)", "Hamm (Deutschland)", "Huntsville (USA)", "Haugesund (Norwegen)"],
+        "land": ["Haiti", "Honduras"],
+        "fluss": ["Havel (Deutschland)", "Hunte (Deutschland)", "Hudson River (USA)"]
+    },
+    "i": {
+        "stadt": ["Ingolstadt (Deutschland)", "Iserlohn (Deutschland)", "Idar-Oberstein (Deutschland)", "Indianapolis (USA)", "Irkutsk (Russland)", "Istanbul (Türkei)"],
+        "land": ["Indien", "Indonesien", "Irak", "Iran", "Island", "Israel"],
+        "fluss": ["Isar (Deutschland)", "Inn (Deutschland)", "Indus (Indien)", "Irrawaddy (Asien)"]
+    },
+    "j": {
+        "stadt": ["Jena (Deutschland)", "Jülich (Deutschland)", "Jever (Deutschland)", "Johannesburg (Südafrika)", "Jacksonville (USA)", "Jakobstad (Finnland)", "Jordanien"],
+        "land": ["Jamaika", "Jemen", "Japan"],
+        "fluss": ["Jagst (Deutschland)", "Jade (Deutschland)", "Jangtsekiang (China)", "Jenissei (Russland)"]
+    },
+    "k": {
+        "stadt": ["Köln (Deutschland)", "Kassel (Deutschland)", "Kappeln (Deutschland)", "Kiel (Deutschland)", "Krakau (Polen)", "Kursk (Russland)"],
+        "land": ["Kambodscha", "Katar (und nicht Qatar im deutschen)", "Kolumbien", "Kroatien", "Kuba", "Kuwait"],
+        "fluss": ["Kyll (Deutschland)", "Kinzig (Deutschland)", "Kongo (Afrika)", "Kasai (Afrika)", "Kolyma (Russland)"]
+    },
+    "l": {
+        "stadt": ["Ludwigshafen (Deutschland)", "Ludwigsburg (Deutschland)", "Lyon (Frankreich)", "London (England)", "Los Angeles (USA)"],
+        "land": ["Lettland", "Libanon", "Liberia", "Libyen", "Luxemburg"],
+        "fluss": ["Lech (Deutschland)", "Lippe (Deutschland)", "Lahn (Deutschland)", "Limpopo (Afrika)", "Lena (Russland)"]
+    },
+    "m": {
+        "stadt": ["München (Deutschland)", "Mainz (Deutschland)", "Montreal (Kanada)", "Melbourne (Australien)", "Mannheim (Deutschland)"],
+        "land": ["Malta", "Malawi", "Monaco", "Mali", "Mexiko"],
+        "fluss": ["Mosel (Deutschland)", "Mies (Deutschland)", "Mulde (Deutschland)", "Mississippi (USA)", "Maas (Niederlande)"]
+    },
+    "n": {
+        "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
+        "land": ["Norwegen", "Namibia", "Nepal", "Niederlande", "Niger"],
+        "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"]
+    },
+    "o": {
+        "stadt": ["Oldenburg (Deutschland)", "Olpe (Deutschland)", "Oelde (Deutschland)", "Ostrava (Tschechien)", "Omaha (USA)"],
+        "land": ["Oman", "Österreich"],
+        "fluss": ["Oder (Europa)", "Oker (Deutschland)", "Orinoco (Südamerika)", "Olenjok (Russland)"]
+    },
+    "p": {
+        "stadt": ["Potsdam (Deutschland)", "Paderborn (Deutschland)", "Pforzheim (Deutschland)", "Porto (Portugal)", "Portland (USA)"],
+        "land": ["Polen", "Portugal", "Panama", "Pakistan", "Peru"],
+        "fluss": ["Pader (Deutschland)", "Peene (Deutschland)", "Prüm (Deutschland)", "Po (Italien)", "Pandsch (Asien)"]
+    },
+    "q": {
+        "stadt": ["Quickborn (Deutschland)", "Quedlinburg (Deutschland)", "Quakenbrück (Deutschland)", "Quebec (Kanada)", "Quimper (Frankreich)"],
+        "land": ["Es gibt kein Land mit dem Anfangsbuchstaben Q"],
+        "fluss": ["Queich (Deutschland)", "Queis (Polen)", "Qu’Appelle River (Kanada)"]
+    },
+    "r": {
+        "stadt": ["Regensburg (Deutschland)", "Rheine (Deutschland)", "Rheinbach (Deutschland)", "Rom (Italien)", "Reno (USA)"],
+        "land": ["Ruanda", "Russland", "Rumänien"],
+        "fluss": ["Rhein (Deutschland)", "Ruhr (Deutschland)", "Rur (Deutschland)", "Rio Grande (USA)", "Rhone (Schweiz und Frankreich)"]
+    },
+    "s": {
+        "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
+        "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien"],
+        "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"]
+    },
+    "t": {
+        "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
+        "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan"],
+        "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"]
+    },
+    "u": {
+        "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
+        "land": ["Uruguay", "Ukraine", "Ungarn", "USA", "Uganda"],
+        "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)", ""]
+    },
+    "v": {
+        "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
+        "land": ["Vanuta", "Venezuela", "Vietnam", "Vereinigte arabische Emirate"],
+        "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"]
+    },
+    "w": {
+        "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
+        "land": ["Weißrussland"],
+        "fluss": ["Weser (Deutschland)", "Werra (Deutschland)", "Wupper (Deutschland)", "Weichsel (Europa)", "Wolga Russland"]
+    },
+    "x": {
+        "stadt": ["Xanten (Deutschland)", "Xiamen (China)", "Xuzhou (China)"],
+        "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben X"],
+        "fluss": ["Xiliao He (China)", "Xar Moron He (China)"]
+    },
+    "y": {
+        "stadt": ["Es gibt leider keine Stadt mit dem Anfangsbuchstaben X"],
+        "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben Y"],
+        "fluss": ["Es gibt leider kein Fluss mit dem Anfangsbuchstaben Y"]
+    },
+    "z": {
+        "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
+        "land": ["Zypern", "Zentralafrikanische Republik"],
+        "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"]
+    }
 }
