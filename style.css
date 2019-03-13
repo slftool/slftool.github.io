@@ -9,3 +9,7 @@ input[type=text] {
     border: 1px solid #ccc;
     font-size: 20px;
 }
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
