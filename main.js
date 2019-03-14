@@ -16,7 +16,6 @@ function init() {
     client.get('/data.json', function (response) {
         data = JSON.parse(response);
         console.log("Loaded SLF Tool");
-        console.log(data);
     });
 }
 
@@ -119,7 +118,7 @@ function change() {
 
                 //cdiv.innerHTML = JSON.stringify(ledata);
 
-                console.log(ledata);
+                //console.log(ledata);
             }
 
         }
