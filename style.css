@@ -8,8 +8,13 @@ input[type=text] {
     border-radius: 5px;
     border: 1px solid #ccc;
     font-size: 20px;
+    color: #4d4d4d;
 }
 
 html {
     font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: #4d4d4d;
 }
