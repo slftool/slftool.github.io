@@ -30,7 +30,7 @@ function change() {
 
             var ledata;
 
-            switch (letter) {
+            switch (letter.toLowerCase()) {
                 case "a":
                     ledata = data.a;
                     break;
