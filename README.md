@@ -9,3 +9,9 @@ Stadt Land Fluss Lösung in kompakter form
 * Stadt
 * Land
 * Fluss
+
+### In Arbeit
+* Name
+* Beruf
+* Tier
+* Marke
