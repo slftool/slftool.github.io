@@ -2,131 +2,208 @@
     "a": {
         "stadt": ["Aalen", "Aachen", "Amberg", "Athen (Griechenland)"],
         "land": ["Albanien", "Armenien", "Andorra", "Algerien"],
-        "fluss": ["Aller (Deutschland)", "Amazonas (Brasilien)", "Alz (Deutschland)", "Ätran (Schweden)"]
+        "fluss": ["Aller (Deutschland)", "Amazonas (Brasilien)", "Alz (Deutschland)", "Ätran (Schweden)", "Aa (Deutschland)"],
+        "name": ["Alexander", "Alexandra", "Anette", "Amanda", "Anton"],
+        "beruf": ["Atomphysiker", "Anlagenbauer", "Autor", "Astronaut"],
+        "tier": ["Aul", "Affe", "Ara", "Ameise", "Amaisenbär"]
     },
     "b": {
         "stadt": ["Bamberg", "Bonn", "Böblingen", "Boston", "Birmingham"],
         "land": ["Belgien", "Brasilien", "Bolivien", "Bermudas", "Bahrain"],
-        "fluss": ["Bigge (Deutschland)", "Brahmaputra (u.a. Indien)", "Belaja (Russland)", "Blies (Frankreich und Deutschland)"]
+        "fluss": ["Bigge (Deutschland)", "Brahmaputra (u.a. Indien)", "Belaja (Russland)", "Blies (Frankreich und Deutschland)"],
+        "name": ["Benjamin", "Benny", "Bernd", "Barbara", "Beate"],
+        "beruf": ["Busfahrer", "Beamter", "Bundesmenister"],
+        "tier": ["Bär", "Biene", "Beluga", "Biber", "Bea", "Bison", "Blaumeise"]
     },
     "c": {
         "stadt": ["Chemnitz (Deutschland)", "Cuxhaven (Deutschland)", "Castrop-Rauxel (Deutschland)", "Charleston (USA)", "Calvi (Frankreich)"],
         "land": ["China", "Costa Rica", "Chile", "Cookinseln"],
-        "fluss": ["Chemnitz (Deutschland)", "Colorado (USA)", "Charente (Frankreich)", "Churchill River (Kanada)"]
+        "fluss": ["Chemnitz (Deutschland)", "Colorado (USA)", "Charente (Frankreich)", "Churchill River (Kanada)"],
+        "name": ["Christian", "Claus", "Christoph", "Conni", "Clara"],
+        "beruf": ["Chemiker", "Chorleiter"],
+        "tier": ["Chameleon", "Chinchilla", "Chiuahua"]
     },
     "d": {
         "stadt": ["Dresden (Deutschland)", "Dortmund (Deutschland)", "Dorsten (Deutschland)", "Dublin (Irland)", "Dayton (USA)"],
         "land": ["Deutschland", "Dänemark", "Dominikanische Republik", "Dschibuti"],
-        "fluss": ["Donau (Europa)", "Don (Russland)", "Dnister (Ukraine)", "Dinkel (Deutschland)"]
+        "fluss": ["Donau (Europa)", "Don (Russland)", "Dnister (Ukraine)", "Dinkel (Deutschland)"],
+        "name": ["Daniel", "Dennis", "Dora", "Detlef"],
+        "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"]
     },
     "e": {
         "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)"],
         "land": ["Estland", "Ecuador", "El Salvador", "Eritrea"],
-        "fluss": ["Ems (Deutschland)", "Emscher (Deutschland)", "Elbe (Europa)", "Euphrat (Asien)", "Ebro (Spanien)"]
+        "fluss": ["Ems (Deutschland)", "Emscher (Deutschland)", "Elbe (Europa)", "Euphrat (Asien)", "Ebro (Spanien)"],
+        "name": ["Emma", "Elara", "Erika", "Ella", "Emil", "Edgar"],
+        "beruf": ["Elektriker", "Estrichleger", "Erziher", "Eisenbahner"],
+        "tier": ["Esel", "Elephant", "Emo", "Eichelhäher"]
     },
     "f": {
         "stadt": ["Frankfurt (Main/Oder) (Deutschland)", "Fürth (Deutschland)", "Faro (Portugal)", "Florenz (Italien)", "Fort Lauderdale (USA)"],
         "land": ["Finnland", "Frankreich", "Fidschi"],
-        "fluss": ["Fulda (Deutschland)", "Fraser River (Kanada)", "Fly ( Neuguinea)"]
+        "fluss": ["Fulda (Deutschland)", "Fraser River (Kanada)", "Fly ( Neuguinea)"],
+        "name": ["Friderike", "Frida", "Florin", "Fritz", "Franz", "Franziska"],
+        "beruf": ["Fliesenleger", "Friseur", "Falkner"],
+        "tier": ["Fischotter", "Felsentaube", "Frettchen"]
     },
     "g": {
         "stadt": ["Gera (Deutschland)", "Gerolstein (Deutschland)", "Göteborg (Schweden)", "Genf (Schweiz)", "Greenville (USA)"],
         "land": ["Georgien", "Ghana", "Griechenland", "Guinea", "Gambia"],
-        "fluss": ["Ganges (Indien)", "Gera (Deutschland)", "Green River (USA)", "Godavari (Indien)", "Gail (Österreich)"]
+        "fluss": ["Ganges (Indien)", "Gera (Deutschland)", "Green River (USA)", "Godavari (Indien)", "Gail (Österreich)"],
+        "name": ["Guido", "Georg", "Gerald", "Gesine", "Gerda", "Greta"],
+        "beruf": ["Gärtner", "Gleisbauer", "Geologe", "Gerüstbauer"],
+        "tier": ["Giraffe", "Gnu", "Goldfisch", "Gazelle", "Gepard"]
     },
     "h": {
         "stadt": ["Hannover (Deutschland)", "Herne (Deutschland)", "Hamm (Deutschland)", "Huntsville (USA)", "Haugesund (Norwegen)"],
         "land": ["Haiti", "Honduras"],
-        "fluss": ["Havel (Deutschland)", "Hunte (Deutschland)", "Hudson River (USA)"]
+        "fluss": ["Havel (Deutschland)", "Hunte (Deutschland)", "Hudson River (USA)"],
+        "name": ["Hanna", "Hans", "hermine", "Henry", "Harry"],
+        "beruf": ["Hausmeister", "Historiker", "Hundezüchter"],
+        "tier": ["Hermelin", "Hase", "Hund", "Huhn", "Hornisse"]
     },
     "i": {
         "stadt": ["Ingolstadt (Deutschland)", "Iserlohn (Deutschland)", "Idar-Oberstein (Deutschland)", "Indianapolis (USA)", "Irkutsk (Russland)", "Istanbul (Türkei)"],
         "land": ["Indien", "Indonesien", "Irak", "Iran", "Island", "Israel"],
-        "fluss": ["Isar (Deutschland)", "Inn (Deutschland)", "Indus (Indien)", "Irrawaddy (Asien)"]
+        "fluss": ["Isar (Deutschland)", "Inn (Deutschland)", "Indus (Indien)", "Irrawaddy (Asien)"],
+        "name": ["Igor", "Ingo", "Ida", "Ina"],
+        "beruf": ["Ingenieur", "Imker", "IT-Techniker", "Informatiker", "Internist"],
+        "tier": ["Igel", "Iltis", "Islandponny", "Ibericoschwein"]
     },
     "j": {
         "stadt": ["Jena (Deutschland)", "Jülich (Deutschland)", "Jever (Deutschland)", "Johannesburg (Südafrika)", "Jacksonville (USA)", "Jakobstad (Finnland)", "Jordanien"],
         "land": ["Jamaika", "Jemen", "Japan"],
-        "fluss": ["Jagst (Deutschland)", "Jade (Deutschland)", "Jangtsekiang (China)", "Jenissei (Russland)"]
+        "fluss": ["Jagst (Deutschland)", "Jade (Deutschland)", "Jangtsekiang (China)", "Jenissei (Russland)"],
+        "name": ["Jan", "Jana", "Johan", "Johanna", "Jördis", "Jörk", "Jörn"],
+        "beruf": ["Journalist", "Jugenderzieher", "Justizwachmeister"],
+        "tier": ["Jaguar", "Junikäfer"]
     },
     "k": {
         "stadt": ["Köln (Deutschland)", "Kassel (Deutschland)", "Kappeln (Deutschland)", "Kiel (Deutschland)", "Krakau (Polen)", "Kursk (Russland)"],
         "land": ["Kambodscha", "Katar (und nicht Qatar im deutschen)", "Kolumbien", "Kroatien", "Kuba", "Kuwait"],
-        "fluss": ["Kyll (Deutschland)", "Kinzig (Deutschland)", "Kongo (Afrika)", "Kasai (Afrika)", "Kolyma (Russland)"]
+        "fluss": ["Kyll (Deutschland)", "Kinzig (Deutschland)", "Kongo (Afrika)", "Kasai (Afrika)", "Kolyma (Russland)"],
+        "name": ["Kerstin", "Kai", "Karl"],
+        "beruf": ["Küster", "Kantor", "Konditor", "Kardiologe", "Kanalbauer"],
+        "tier": ["Kuh", "Katze", "Kamel", "Kolibir", "Kholmeise", "Kohlweisling"]
     },
     "l": {
         "stadt": ["Ludwigshafen (Deutschland)", "Ludwigsburg (Deutschland)", "Lyon (Frankreich)", "London (England)", "Los Angeles (USA)"],
         "land": ["Lettland", "Libanon", "Liberia", "Libyen", "Luxemburg"],
-        "fluss": ["Lech (Deutschland)", "Lippe (Deutschland)", "Lahn (Deutschland)", "Limpopo (Afrika)", "Lena (Russland)"]
+        "fluss": ["Lech (Deutschland)", "Lippe (Deutschland)", "Lahn (Deutschland)", "Limpopo (Afrika)", "Lena (Russland)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "m": {
         "stadt": ["München (Deutschland)", "Mainz (Deutschland)", "Montreal (Kanada)", "Melbourne (Australien)", "Mannheim (Deutschland)"],
         "land": ["Malta", "Malawi", "Monaco", "Mali", "Mexiko"],
-        "fluss": ["Mosel (Deutschland)", "Mies (Deutschland)", "Mulde (Deutschland)", "Mississippi (USA)", "Maas (Niederlande)"]
+        "fluss": ["Mosel (Deutschland)", "Mies (Deutschland)", "Mulde (Deutschland)", "Mississippi (USA)", "Maas (Niederlande)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "n": {
         "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
         "land": ["Norwegen", "Namibia", "Nepal", "Niederlande", "Niger"],
-        "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"]
+        "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "o": {
         "stadt": ["Oldenburg (Deutschland)", "Olpe (Deutschland)", "Oelde (Deutschland)", "Ostrava (Tschechien)", "Omaha (USA)"],
         "land": ["Oman", "Österreich"],
-        "fluss": ["Oder (Europa)", "Oker (Deutschland)", "Orinoco (Südamerika)", "Olenjok (Russland)"]
+        "fluss": ["Oder (Europa)", "Oker (Deutschland)", "Orinoco (Südamerika)", "Olenjok (Russland)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "p": {
         "stadt": ["Potsdam (Deutschland)", "Paderborn (Deutschland)", "Pforzheim (Deutschland)", "Porto (Portugal)", "Portland (USA)"],
         "land": ["Polen", "Portugal", "Panama", "Pakistan", "Peru"],
-        "fluss": ["Pader (Deutschland)", "Peene (Deutschland)", "Prüm (Deutschland)", "Po (Italien)", "Pandsch (Asien)"]
+        "fluss": ["Pader (Deutschland)", "Peene (Deutschland)", "Prüm (Deutschland)", "Po (Italien)", "Pandsch (Asien)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "q": {
         "stadt": ["Quickborn (Deutschland)", "Quedlinburg (Deutschland)", "Quakenbrück (Deutschland)", "Quebec (Kanada)", "Quimper (Frankreich)"],
         "land": ["Es gibt kein Land mit dem Anfangsbuchstaben Q"],
-        "fluss": ["Queich (Deutschland)", "Queis (Polen)", "Qu’Appelle River (Kanada)"]
+        "fluss": ["Queich (Deutschland)", "Queis (Polen)", "Qu’Appelle River (Kanada)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "r": {
         "stadt": ["Regensburg (Deutschland)", "Rheine (Deutschland)", "Rheinbach (Deutschland)", "Rom (Italien)", "Reno (USA)"],
         "land": ["Ruanda", "Russland", "Rumänien"],
-        "fluss": ["Rhein (Deutschland)", "Ruhr (Deutschland)", "Rur (Deutschland)", "Rio Grande (USA)", "Rhone (Schweiz und Frankreich)"]
+        "fluss": ["Rhein (Deutschland)", "Ruhr (Deutschland)", "Rur (Deutschland)", "Rio Grande (USA)", "Rhone (Schweiz und Frankreich)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "s": {
         "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
         "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien"],
-        "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"]
+        "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "t": {
         "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
         "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan"],
-        "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"]
+        "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "u": {
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
         "land": ["Uruguay", "Ukraine", "Ungarn", "USA", "Uganda"],
-        "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)", ""]
+        "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)", ""],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "v": {
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
         "land": ["Vanuta", "Venezuela", "Vietnam", "Vereinigte arabische Emirate"],
-        "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"]
+        "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "w": {
         "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
         "land": ["Weißrussland"],
-        "fluss": ["Weser (Deutschland)", "Werra (Deutschland)", "Wupper (Deutschland)", "Weichsel (Europa)", "Wolga Russland"]
+        "fluss": ["Weser (Deutschland)", "Werra (Deutschland)", "Wupper (Deutschland)", "Weichsel (Europa)", "Wolga Russland"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "x": {
         "stadt": ["Xanten (Deutschland)", "Xiamen (China)", "Xuzhou (China)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben X"],
-        "fluss": ["Xiliao He (China)", "Xar Moron He (China)"]
+        "fluss": ["Xiliao He (China)", "Xar Moron He (China)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "y": {
         "stadt": ["York (England)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben Y"],
-        "fluss": ["Yukon (USA)"]
+        "fluss": ["Yukon (USA)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     },
     "z": {
         "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
         "land": ["Zypern", "Zentralafrikanische Republik"],
-        "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"]
+        "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"],
+        "name": ["In Arbeit"],
+        "beruf": ["In Arbeit"],
+        "tier": ["In Arbeit"]
     }
 }
