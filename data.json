@@ -28,7 +28,7 @@
         "land": ["Deutschland", "Dänemark", "Dominikanische Republik", "Dschibuti"],
         "fluss": ["Donau (Europa)", "Don (Russland)", "Dnister (Ukraine)", "Dinkel (Deutschland)"],
         "name": ["Daniel", "Dennis", "Dora", "Detlef"],
-        "beruf": ["Doktor", "Domtör"],
+        "beruf": ["Doktor", "Domtör", "Dachdecker", "Designer", "Drogist"],
         "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"]
     },
     "e": {
@@ -91,41 +91,41 @@
         "stadt": ["Ludwigshafen (Deutschland)", "Ludwigsburg (Deutschland)", "Lyon (Frankreich)", "London (England)", "Los Angeles (USA)"],
         "land": ["Lettland", "Libanon", "Liberia", "Libyen", "Luxemburg"],
         "fluss": ["Lech (Deutschland)", "Lippe (Deutschland)", "Lahn (Deutschland)", "Limpopo (Afrika)", "Lena (Russland)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Lara", "Leonie", "Lina", "Leon", "Laureen"],
+        "beruf": ["Landwirt", "Logopäde"],
+        "tier": ["Leopard", "Lama", "Lippenbär", "Löwe"]
     },
     "m": {
         "stadt": ["München (Deutschland)", "Mainz (Deutschland)", "Montreal (Kanada)", "Melbourne (Australien)", "Mannheim (Deutschland)"],
         "land": ["Malta", "Malawi", "Monaco", "Mali", "Mexiko"],
         "fluss": ["Mosel (Deutschland)", "Mies (Deutschland)", "Mulde (Deutschland)", "Mississippi (USA)", "Maas (Niederlande)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Malte", "Madita", "Marvin", "Malon", "Marion"],
+        "beruf": ["Maler", "Maurer", "Mediengestalter"],
+        "tier": ["Mücken", "Malaienbär", " Maskenkiebitz"]
     },
     "n": {
         "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
         "land": ["Norwegen", "Namibia", "Nepal", "Niederlande", "Niger"],
         "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Noel", "Nele", "Namika", "Natalie"],
+        "beruf": ["Notfallsanitäter", "Notarzt"],
+        "tier": ["Nasenbär", "Nilkrokodil", "Nacktnasenwombat"]
     },
     "o": {
         "stadt": ["Oldenburg (Deutschland)", "Olpe (Deutschland)", "Oelde (Deutschland)", "Ostrava (Tschechien)", "Omaha (USA)"],
         "land": ["Oman", "Österreich"],
         "fluss": ["Oder (Europa)", "Oker (Deutschland)", "Orinoco (Südamerika)", "Olenjok (Russland)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Ole", "Olaf", "Otto"],
+        "beruf": ["Orthopaedieschuhmacher", "Operationstechnischer Assistent", "Oberflaechenbeschichter"],
+        "tier": ["Orang-Utan", "Ochse", "Okapi"]
     },
     "p": {
         "stadt": ["Potsdam (Deutschland)", "Paderborn (Deutschland)", "Pforzheim (Deutschland)", "Porto (Portugal)", "Portland (USA)"],
         "land": ["Polen", "Portugal", "Panama", "Pakistan", "Peru"],
         "fluss": ["Pader (Deutschland)", "Peene (Deutschland)", "Prüm (Deutschland)", "Po (Italien)", "Pandsch (Asien)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Phillip", "Paul", "Peter", "Pascal"],
+        "beruf": ["Physiotherapeut", "Podologe", "Produktionstechnologe", "Patentanwaltsfachangestellter"],
+        "tier": ["Pferd", "Pinguin", " Palmkakadu"]
     },
     "q": {
         "stadt": ["Quickborn (Deutschland)", "Quedlinburg (Deutschland)", "Quakenbrück (Deutschland)", "Quebec (Kanada)", "Quimper (Frankreich)"],
