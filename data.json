@@ -131,25 +131,25 @@
         "stadt": ["Quickborn (Deutschland)", "Quedlinburg (Deutschland)", "Quakenbrück (Deutschland)", "Quebec (Kanada)", "Quimper (Frankreich)"],
         "land": ["Es gibt kein Land mit dem Anfangsbuchstaben Q"],
         "fluss": ["Queich (Deutschland)", "Queis (Polen)", "Qu’Appelle River (Kanada)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Quinn"],
+        "beruf": ["Es gibt leider keinen Namen mit dem Anfangsbuchstaben Q"],
+        "tier": ["Qualle", "Quastenflosser"]
     },
     "r": {
         "stadt": ["Regensburg (Deutschland)", "Rheine (Deutschland)", "Rheinbach (Deutschland)", "Rom (Italien)", "Reno (USA)"],
         "land": ["Ruanda", "Russland", "Rumänien"],
         "fluss": ["Rhein (Deutschland)", "Ruhr (Deutschland)", "Rur (Deutschland)", "Rio Grande (USA)", "Rhone (Schweiz und Frankreich)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Rainer", "Rene", "Rolf", "Rudolf"],
+        "beruf": ["Rechtsanwaltsfachangestellter", "Restaurantfachmann"],
+        "tier": ["Rentier", "Rotfuchs", "Riesentrappe"]
     },
     "s": {
         "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
         "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien"],
         "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"],
-        "name": ["In Arbeit"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "name": ["Sandra", "Siegfried"],
+        "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Strassenwaerter", "Strassenbauer", "Systemelektroniker"],
+        "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen"]
     },
     "t": {
         "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
