@@ -107,7 +107,7 @@
         "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
         "land": ["Norwegen", "Namibia", "Nepal", "Niederlande", "Niger"],
         "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"],
-        "name": ["Noel", "Nele", "Namika", "Natalie"],
+        "name": ["Noel", "Nele", "Namika", "Natalie", "Niko"],
         "beruf": ["Notfallsanitäter", "Notarzt"],
         "tier": ["Nasenbär", "Nilkrokodil", "Nacktnasenwombat"]
     },
@@ -147,7 +147,7 @@
         "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
         "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien"],
         "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"],
-        "name": ["Sandra", "Siegfried"],
+        "name": ["Sandra", "Siegfried", "Sabina", "Sabrina"],
         "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Strassenwaerter", "Strassenbauer", "Systemelektroniker"],
         "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen"]
     },
@@ -155,7 +155,7 @@
         "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
         "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan"],
         "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"],
-        "name": ["In Arbeit"],
+        "name": ["Timo", "Tammo", "Tim", "Tom", "Torben"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     },
@@ -163,7 +163,7 @@
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
         "land": ["Uruguay", "Ukraine", "Ungarn", "USA", "Uganda"],
         "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)"],
-        "name": ["In Arbeit"],
+        "name": ["Ursula", "Ute", "Uwe"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     },
@@ -171,7 +171,7 @@
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
         "land": ["Vanuta", "Venezuela", "Vietnam", "Vereinigte arabische Emirate"],
         "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"],
-        "name": ["In Arbeit"],
+        "name": ["Valentia", "Valenta", "Valene", "Valencia"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     },
@@ -179,7 +179,7 @@
         "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
         "land": ["Weißrussland"],
         "fluss": ["Weser (Deutschland)", "Werra (Deutschland)", "Wupper (Deutschland)", "Weichsel (Europa)", "Wolga Russland"],
-        "name": ["In Arbeit"],
+        "name": ["Wolf", "Willi", "Winnie", "Werner", "Wilhelm", "William", "Wolfgang"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     },
@@ -187,7 +187,7 @@
         "stadt": ["Xanten (Deutschland)", "Xiamen (China)", "Xuzhou (China)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben X"],
         "fluss": ["Xiliao He (China)", "Xar Moron He (China)"],
-        "name": ["In Arbeit"],
+        "name": ["Xenia", "Xandra", "Xanthos"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     },
@@ -195,7 +195,7 @@
         "stadt": ["York (England)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben Y"],
         "fluss": ["Yukon (USA)"],
-        "name": ["In Arbeit"],
+        "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     },
@@ -203,7 +203,7 @@
         "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
         "land": ["Zypern", "Zentralafrikanische Republik"],
         "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"],
-        "name": ["In Arbeit"],
+        "name": ["Zoe", "Zelda", "Zoro", "Zoella", "Zilla"],
         "beruf": ["In Arbeit"],
         "tier": ["In Arbeit"]
     }
