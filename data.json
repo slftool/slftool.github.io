@@ -156,16 +156,16 @@
         "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan"],
         "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"],
         "name": ["Timo", "Tammo", "Tim", "Tom", "Torben"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher"],
+        "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"]
     },
     "u": {
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
         "land": ["Uruguay", "Ukraine", "Ungarn", "USA", "Uganda"],
         "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)"],
         "name": ["Ursula", "Ute", "Uwe"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Uhrmacher", "Umweltschutztechnischer Assistent"],
+        "tier": ["Uhu"]
     },
     "v": {
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
