@@ -5,7 +5,8 @@
         "fluss": ["Aller (Deutschland)", "Amazonas (Brasilien)", "Alz (Deutschland)", "Ätran (Schweden)", "Aa (Deutschland)"],
         "name": ["Alexander", "Alexandra", "Anette", "Amanda", "Anton"],
         "beruf": ["Atomphysiker", "Anlagenbauer", "Autor", "Astronaut"],
-        "tier": ["Aul", "Affe", "Ara", "Ameise", "Amaisenbär"]
+        "tier": ["Aul", "Affe", "Ara", "Ameise", "Amaisenbär"],
+        "marke": ["In Arbeit"]
     },
     "b": {
         "stadt": ["Bamberg", "Bonn", "Böblingen", "Boston", "Birmingham"],
@@ -13,7 +14,8 @@
         "fluss": ["Bigge (Deutschland)", "Brahmaputra (u.a. Indien)", "Belaja (Russland)", "Blies (Frankreich und Deutschland)"],
         "name": ["Benjamin", "Benny", "Bernd", "Barbara", "Beate"],
         "beruf": ["Busfahrer", "Beamter", "Bundesmenister"],
-        "tier": ["Bär", "Biene", "Beluga", "Biber", "Bea", "Bison", "Blaumeise"]
+        "tier": ["Bär", "Biene", "Beluga", "Biber", "Bea", "Bison", "Blaumeise"],
+        "marke": ["In Arbeit"]
     },
     "c": {
         "stadt": ["Chemnitz (Deutschland)", "Cuxhaven (Deutschland)", "Castrop-Rauxel (Deutschland)", "Charleston (USA)", "Calvi (Frankreich)"],
@@ -21,7 +23,8 @@
         "fluss": ["Chemnitz (Deutschland)", "Colorado (USA)", "Charente (Frankreich)", "Churchill River (Kanada)"],
         "name": ["Christian", "Claus", "Christoph", "Conni", "Clara"],
         "beruf": ["Chemiker", "Chorleiter"],
-        "tier": ["Chameleon", "Chinchilla", "Chiuahua"]
+        "tier": ["Chameleon", "Chinchilla", "Chiuahua"],
+        "marke": ["In Arbeit"]
     },
     "d": {
         "stadt": ["Dresden (Deutschland)", "Dortmund (Deutschland)", "Dorsten (Deutschland)", "Dublin (Irland)", "Dayton (USA)"],
@@ -29,7 +32,8 @@
         "fluss": ["Donau (Europa)", "Don (Russland)", "Dnister (Ukraine)", "Dinkel (Deutschland)"],
         "name": ["Daniel", "Dennis", "Dora", "Detlef"],
         "beruf": ["Doktor", "Domtör", "Dachdecker", "Designer", "Drogist"],
-        "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"]
+        "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"],
+        "marke": ["In Arbeit"]
     },
     "e": {
         "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)"],
@@ -37,7 +41,8 @@
         "fluss": ["Ems (Deutschland)", "Emscher (Deutschland)", "Elbe (Europa)", "Euphrat (Asien)", "Ebro (Spanien)"],
         "name": ["Emma", "Elara", "Erika", "Ella", "Emil", "Edgar"],
         "beruf": ["Elektriker", "Estrichleger", "Erziher", "Eisenbahner"],
-        "tier": ["Esel", "Elephant", "Emo", "Eichelhäher"]
+        "tier": ["Esel", "Elephant", "Emo", "Eichelhäher"],
+        "marke": ["In Arbeit"]
     },
     "f": {
         "stadt": ["Frankfurt (Main/Oder) (Deutschland)", "Fürth (Deutschland)", "Faro (Portugal)", "Florenz (Italien)", "Fort Lauderdale (USA)"],
@@ -45,7 +50,8 @@
         "fluss": ["Fulda (Deutschland)", "Fraser River (Kanada)", "Fly ( Neuguinea)"],
         "name": ["Friderike", "Frida", "Florin", "Fritz", "Franz", "Franziska"],
         "beruf": ["Fliesenleger", "Friseur", "Falkner"],
-        "tier": ["Fischotter", "Felsentaube", "Frettchen"]
+        "tier": ["Fischotter", "Felsentaube", "Frettchen"],
+        "marke": ["In Arbeit"]
     },
     "g": {
         "stadt": ["Gera (Deutschland)", "Gerolstein (Deutschland)", "Göteborg (Schweden)", "Genf (Schweiz)", "Greenville (USA)"],
@@ -53,7 +59,8 @@
         "fluss": ["Ganges (Indien)", "Gera (Deutschland)", "Green River (USA)", "Godavari (Indien)", "Gail (Österreich)"],
         "name": ["Guido", "Georg", "Gerald", "Gesine", "Gerda", "Greta"],
         "beruf": ["Gärtner", "Gleisbauer", "Geologe", "Gerüstbauer"],
-        "tier": ["Giraffe", "Gnu", "Goldfisch", "Gazelle", "Gepard"]
+        "tier": ["Giraffe", "Gnu", "Goldfisch", "Gazelle", "Gepard"],
+        "marke": ["In Arbeit"]
     },
     "h": {
         "stadt": ["Hannover (Deutschland)", "Herne (Deutschland)", "Hamm (Deutschland)", "Huntsville (USA)", "Haugesund (Norwegen)"],
@@ -61,7 +68,8 @@
         "fluss": ["Havel (Deutschland)", "Hunte (Deutschland)", "Hudson River (USA)"],
         "name": ["Hanna", "Hans", "hermine", "Henry", "Harry"],
         "beruf": ["Hausmeister", "Historiker", "Hundezüchter"],
-        "tier": ["Hermelin", "Hase", "Hund", "Huhn", "Hornisse"]
+        "tier": ["Hermelin", "Hase", "Hund", "Huhn", "Hornisse"],
+        "marke": ["In Arbeit"]
     },
     "i": {
         "stadt": ["Ingolstadt (Deutschland)", "Iserlohn (Deutschland)", "Idar-Oberstein (Deutschland)", "Indianapolis (USA)", "Irkutsk (Russland)", "Istanbul (Türkei)"],
@@ -69,7 +77,8 @@
         "fluss": ["Isar (Deutschland)", "Inn (Deutschland)", "Indus (Indien)", "Irrawaddy (Asien)"],
         "name": ["Igor", "Ingo", "Ida", "Ina"],
         "beruf": ["Ingenieur", "Imker", "IT-Techniker", "Informatiker", "Internist"],
-        "tier": ["Igel", "Iltis", "Islandponny", "Ibericoschwein"]
+        "tier": ["Igel", "Iltis", "Islandponny", "Ibericoschwein"],
+        "marke": ["In Arbeit"]
     },
     "j": {
         "stadt": ["Jena (Deutschland)", "Jülich (Deutschland)", "Jever (Deutschland)", "Johannesburg (Südafrika)", "Jacksonville (USA)", "Jakobstad (Finnland)", "Jordanien"],
@@ -77,7 +86,8 @@
         "fluss": ["Jagst (Deutschland)", "Jade (Deutschland)", "Jangtsekiang (China)", "Jenissei (Russland)"],
         "name": ["Jan", "Jana", "Johan", "Johanna", "Jördis", "Jörk", "Jörn"],
         "beruf": ["Journalist", "Jugenderzieher", "Justizwachmeister"],
-        "tier": ["Jaguar", "Junikäfer"]
+        "tier": ["Jaguar", "Junikäfer"],
+        "marke": ["In Arbeit"]
     },
     "k": {
         "stadt": ["Köln (Deutschland)", "Kassel (Deutschland)", "Kappeln (Deutschland)", "Kiel (Deutschland)", "Krakau (Polen)", "Kursk (Russland)"],
@@ -85,7 +95,8 @@
         "fluss": ["Kyll (Deutschland)", "Kinzig (Deutschland)", "Kongo (Afrika)", "Kasai (Afrika)", "Kolyma (Russland)"],
         "name": ["Kerstin", "Kai", "Karl"],
         "beruf": ["Küster", "Kantor", "Konditor", "Kardiologe", "Kanalbauer"],
-        "tier": ["Kuh", "Katze", "Kamel", "Kolibir", "Kholmeise", "Kohlweisling"]
+        "tier": ["Kuh", "Katze", "Kamel", "Kolibir", "Kholmeise", "Kohlweisling"],
+        "marke": ["In Arbeit"]
     },
     "l": {
         "stadt": ["Ludwigshafen (Deutschland)", "Ludwigsburg (Deutschland)", "Lyon (Frankreich)", "London (England)", "Los Angeles (USA)"],
@@ -93,7 +104,8 @@
         "fluss": ["Lech (Deutschland)", "Lippe (Deutschland)", "Lahn (Deutschland)", "Limpopo (Afrika)", "Lena (Russland)"],
         "name": ["Lara", "Leonie", "Lina", "Leon", "Laureen"],
         "beruf": ["Landwirt", "Logopäde"],
-        "tier": ["Leopard", "Lama", "Lippenbär", "Löwe"]
+        "tier": ["Leopard", "Lama", "Lippenbär", "Löwe"],
+        "marke": ["In Arbeit"]
     },
     "m": {
         "stadt": ["München (Deutschland)", "Mainz (Deutschland)", "Montreal (Kanada)", "Melbourne (Australien)", "Mannheim (Deutschland)"],
@@ -101,7 +113,8 @@
         "fluss": ["Mosel (Deutschland)", "Mies (Deutschland)", "Mulde (Deutschland)", "Mississippi (USA)", "Maas (Niederlande)"],
         "name": ["Malte", "Madita", "Marvin", "Malon", "Marion"],
         "beruf": ["Maler", "Maurer", "Mediengestalter"],
-        "tier": ["Mücken", "Malaienbär", "Maskenkiebitz"]
+        "tier": ["Mücken", "Malaienbär", "Maskenkiebitz"],
+        "marke": ["In Arbeit"]
     },
     "n": {
         "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
@@ -109,7 +122,8 @@
         "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"],
         "name": ["Noel", "Nele", "Namika", "Natalie", "Niko"],
         "beruf": ["Notfallsanitäter", "Notarzt"],
-        "tier": ["Nasenbär", "Nilkrokodil", "Nacktnasenwombat"]
+        "tier": ["Nasenbär", "Nilkrokodil", "Nacktnasenwombat"],
+        "marke": ["In Arbeit"]
     },
     "o": {
         "stadt": ["Oldenburg (Deutschland)", "Olpe (Deutschland)", "Oelde (Deutschland)", "Ostrava (Tschechien)", "Omaha (USA)"],
@@ -117,7 +131,8 @@
         "fluss": ["Oder (Europa)", "Oker (Deutschland)", "Orinoco (Südamerika)", "Olenjok (Russland)"],
         "name": ["Ole", "Olaf", "Otto"],
         "beruf": ["Orthopaedieschuhmacher", "Operationstechnischer Assistent", "Oberflaechenbeschichter"],
-        "tier": ["Orang-Utan", "Ochse", "Okapi"]
+        "tier": ["Orang-Utan", "Ochse", "Okapi"],
+        "marke": ["In Arbeit"]
     },
     "p": {
         "stadt": ["Potsdam (Deutschland)", "Paderborn (Deutschland)", "Pforzheim (Deutschland)", "Porto (Portugal)", "Portland (USA)"],
@@ -125,7 +140,8 @@
         "fluss": ["Pader (Deutschland)", "Peene (Deutschland)", "Prüm (Deutschland)", "Po (Italien)", "Pandsch (Asien)"],
         "name": ["Phillip", "Paul", "Peter", "Pascal"],
         "beruf": ["Physiotherapeut", "Podologe", "Produktionstechnologe", "Patentanwaltsfachangestellter"],
-        "tier": ["Pferd", "Pinguin", " Palmkakadu"]
+        "tier": ["Pferd", "Pinguin", " Palmkakadu"],
+        "marke": ["In Arbeit"]
     },
     "q": {
         "stadt": ["Quickborn (Deutschland)", "Quedlinburg (Deutschland)", "Quakenbrück (Deutschland)", "Quebec (Kanada)", "Quimper (Frankreich)"],
@@ -133,7 +149,8 @@
         "fluss": ["Queich (Deutschland)", "Queis (Polen)", "Qu’Appelle River (Kanada)"],
         "name": ["Quinn"],
         "beruf": ["Es gibt leider keinen Namen mit dem Anfangsbuchstaben Q"],
-        "tier": ["Qualle", "Quastenflosser"]
+        "tier": ["Qualle", "Quastenflosser"],
+        "marke": ["In Arbeit"]
     },
     "r": {
         "stadt": ["Regensburg (Deutschland)", "Rheine (Deutschland)", "Rheinbach (Deutschland)", "Rom (Italien)", "Reno (USA)"],
@@ -141,7 +158,8 @@
         "fluss": ["Rhein (Deutschland)", "Ruhr (Deutschland)", "Rur (Deutschland)", "Rio Grande (USA)", "Rhone (Schweiz und Frankreich)"],
         "name": ["Rainer", "Rene", "Rolf", "Rudolf"],
         "beruf": ["Rechtsanwaltsfachangestellter", "Restaurantfachmann"],
-        "tier": ["Rentier", "Rotfuchs", "Riesentrappe"]
+        "tier": ["Rentier", "Rotfuchs", "Riesentrappe"],
+        "marke": ["In Arbeit"]
     },
     "s": {
         "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
@@ -149,7 +167,8 @@
         "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"],
         "name": ["Sandra", "Siegfried", "Sabina", "Sabrina"],
         "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Strassenwaerter", "Strassenbauer", "Systemelektroniker"],
-        "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen"]
+        "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen"],
+        "marke": ["In Arbeit"]
     },
     "t": {
         "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
@@ -157,7 +176,8 @@
         "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"],
         "name": ["Timo", "Tammo", "Tim", "Tom", "Torben"],
         "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher"],
-        "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"]
+        "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"],
+        "marke": ["In Arbeit"]
     },
     "u": {
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
@@ -165,7 +185,8 @@
         "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)"],
         "name": ["Ursula", "Ute", "Uwe"],
         "beruf": ["Uhrmacher", "Umweltschutztechnischer Assistent"],
-        "tier": ["Uhu", "Uferschnepfe", "Uferschwalbe", "Uganda-Giraffe"]
+        "tier": ["Uhu", "Uferschnepfe", "Uferschwalbe", "Uganda-Giraffe"],
+        "marke": ["In Arbeit"]
     },
     "v": {
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
@@ -173,7 +194,8 @@
         "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"],
         "name": ["Valentia", "Valenta", "Valene", "Valencia"],
         "beruf": ["Veranstaltungskaufmann", "Verfahrenstechnologe", "Verfahrensmechaniker"],
-        "tier": ["Vielfraß", "Vierauge", "Vipern", "Vergoldeter Flohkäfer", "Vari"]
+        "tier": ["Vielfraß", "Vierauge", "Vipern", "Vergoldeter Flohkäfer", "Vari"],
+        "marke": ["In Arbeit"]
     },
     "w": {
         "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
@@ -181,7 +203,8 @@
         "fluss": ["Weser (Deutschland)", "Werra (Deutschland)", "Wupper (Deutschland)", "Weichsel (Europa)", "Wolga Russland"],
         "name": ["Wolf", "Willi", "Winnie", "Werner", "Wilhelm", "William", "Wolfgang"],
         "beruf": ["Wärme, Kälte und Schallschutzisolierer", "Wasserbauer", "Weintechnologe", "Werkfeuerwehrmann", "Werkstoffprüfer"],
-        "tier": ["Wacholderdrossel", "Wachtelkönig", "Waldammer", "Wald-Dickkopf", "Waldfrosch"]
+        "tier": ["Wacholderdrossel", "Wachtelkönig", "Waldammer", "Wald-Dickkopf", "Waldfrosch"],
+        "marke": ["In Arbeit"]
     },
     "x": {
         "stadt": ["Xanten (Deutschland)", "Xiamen (China)", "Xuzhou (China)"],
@@ -189,7 +212,8 @@
         "fluss": ["Xiliao He (China)", "Xar Moron He (China)"],
         "name": ["Xenia", "Xandra", "Xanthos"],
         "beruf": ["Xylophonist", "Xylophonbauer"],
-        "tier": ["Xysticus audax", "Xenesthis immanis"]
+        "tier": ["Xysticus audax", "Xenesthis immanis"],
+        "marke": ["In Arbeit"]
     },
     "y": {
         "stadt": ["York (England)"],
@@ -197,7 +221,8 @@
         "fluss": ["Yukon (USA)"],
         "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin"],
         "beruf": ["Youtuber", "Yachtbauer", "Yogalehrer"],
-        "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"]
+        "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"],
+        "marke": ["In Arbeit"]
     },
     "z": {
         "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
@@ -205,6 +230,7 @@
         "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"],
         "name": ["Zoe", "Zelda", "Zoro", "Zoella", "Zilla"],
         "beruf": ["Zahnmedizinischer Fachangestellter", "Zahntechniker", "Zimmerer", "Zerspanungsmechaniker"],
-        "tier": ["Zander", "Zackeneule", "Zaunkönig", "Zebrahai", "Zechgraumull"]
+        "tier": ["Zander", "Zackeneule", "Zaunkönig", "Zebrahai", "Zechgraumull"],
+        "marke": ["In Arbeit"]
     }
 }
