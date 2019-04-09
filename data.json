@@ -165,46 +165,46 @@
         "fluss": ["Urft (Deutschland)", "Unstrut (Deutschland)", "Ural (Russland)", "Unscha (Russland)"],
         "name": ["Ursula", "Ute", "Uwe"],
         "beruf": ["Uhrmacher", "Umweltschutztechnischer Assistent"],
-        "tier": ["Uhu"]
+        "tier": ["Uhu", "Uferschnepfe", "Uferschwalbe", "Uganda-Giraffe"]
     },
     "v": {
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
         "land": ["Vanuta", "Venezuela", "Vietnam", "Vereinigte arabische Emirate"],
         "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"],
         "name": ["Valentia", "Valenta", "Valene", "Valencia"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Veranstaltungskaufmann", "Verfahrenstechnologe", "Verfahrensmechaniker"],
+        "tier": ["Vielfraß", "Vierauge", "Vipern", "Vergoldeter Flohkäfer", "Vari"]
     },
     "w": {
         "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
         "land": ["Weißrussland"],
         "fluss": ["Weser (Deutschland)", "Werra (Deutschland)", "Wupper (Deutschland)", "Weichsel (Europa)", "Wolga Russland"],
         "name": ["Wolf", "Willi", "Winnie", "Werner", "Wilhelm", "William", "Wolfgang"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Wärme, Kälte und Schallschutzisolierer", "Wasserbauer", "Weintechnologe", "Werkfeuerwehrmann", "Werkstoffprüfer"],
+        "tier": ["Wacholderdrossel", "Wachtelkönig", "Waldammer", "Wald-Dickkopf", "Waldfrosch"]
     },
     "x": {
         "stadt": ["Xanten (Deutschland)", "Xiamen (China)", "Xuzhou (China)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben X"],
         "fluss": ["Xiliao He (China)", "Xar Moron He (China)"],
         "name": ["Xenia", "Xandra", "Xanthos"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Xylophonist", "Xylophonbauer"],
+        "tier": ["Xysticus audax", "Xenesthis immanis"]
     },
     "y": {
         "stadt": ["York (England)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben Y"],
         "fluss": ["Yukon (USA)"],
         "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Youtuber", "Yachtbauer", "Yogalehrer"],
+        "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"]
     },
     "z": {
         "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
         "land": ["Zypern", "Zentralafrikanische Republik"],
         "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"],
         "name": ["Zoe", "Zelda", "Zoro", "Zoella", "Zilla"],
-        "beruf": ["In Arbeit"],
-        "tier": ["In Arbeit"]
+        "beruf": ["Zahnmedizinischer Fachangestellter", "Zahntechniker", "Zimmerer", "Zerspanungsmechaniker"],
+        "tier": ["Zander", "Zackeneule", "Zaunkönig", "Zebrahai", "Zechgraumull"]
     }
 }
