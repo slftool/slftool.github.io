@@ -16,3 +16,6 @@ Stadt Land Fluss Lösung in kompakter Form
 
 ### In Arbeit
 * Marke
+
+### Für Developer
+Unter `https://slftool.github.io/data.json` findet ihr die Datenbank ihr könnt sie für eure zwecke unter der [MIT lizenz](https://github.com/slftool/slftool.github.io/blob/master/LICENSE) benutzen
