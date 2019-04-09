@@ -6,7 +6,7 @@
         "name": ["Alexander", "Alexandra", "Anette", "Amanda", "Anton"],
         "beruf": ["Atomphysiker", "Anlagenbauer", "Autor", "Astronaut"],
         "tier": ["Aul", "Affe", "Ara", "Ameise", "Amaisenbär"],
-        "marke": ["In Arbeit"]
+        "marke": ["Adidas", "Abus", "Alpina", "Asics"]
     },
     "b": {
         "stadt": ["Bamberg", "Bonn", "Böblingen", "Boston", "Birmingham"],
@@ -15,7 +15,7 @@
         "name": ["Benjamin", "Benny", "Bernd", "Barbara", "Beate"],
         "beruf": ["Busfahrer", "Beamter", "Bundesmenister"],
         "tier": ["Bär", "Biene", "Beluga", "Biber", "Bea", "Bison", "Blaumeise"],
-        "marke": ["In Arbeit"]
+        "marke": ["Basil", "Barbour", "Bench", "Billa Bong", "Blomus", "Bosch", "Braum"]
     },
     "c": {
         "stadt": ["Chemnitz (Deutschland)", "Cuxhaven (Deutschland)", "Castrop-Rauxel (Deutschland)", "Charleston (USA)", "Calvi (Frankreich)"],
@@ -24,7 +24,7 @@
         "name": ["Christian", "Claus", "Christoph", "Conni", "Clara"],
         "beruf": ["Chemiker", "Chorleiter"],
         "tier": ["Chameleon", "Chinchilla", "Chiuahua"],
-        "marke": ["In Arbeit"]
+        "marke": ["C & A", "Calvin Klein", "Camper", "Casio", "CAT", "Coach", "Columbia", "Crivit"]
     },
     "d": {
         "stadt": ["Dresden (Deutschland)", "Dortmund (Deutschland)", "Dorsten (Deutschland)", "Dublin (Irland)", "Dayton (USA)"],
@@ -33,7 +33,7 @@
         "name": ["Daniel", "Dennis", "Dora", "Detlef"],
         "beruf": ["Doktor", "Domtör", "Dachdecker", "Designer", "Drogist"],
         "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"],
-        "marke": ["In Arbeit"]
+        "marke": ["Dakine", "DeinDesign", "Diesel", "Dockers", "Domo"]
     },
     "e": {
         "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)"],
@@ -42,7 +42,7 @@
         "name": ["Emma", "Elara", "Erika", "Ella", "Emil", "Edgar"],
         "beruf": ["Elektriker", "Estrichleger", "Erziher", "Eisenbahner"],
         "tier": ["Esel", "Elephant", "Emo", "Eichelhäher"],
-        "marke": ["In Arbeit"]
+        "marke": ["Eastpak", "Ecco", "Edding", "Einhell", "Ergobag", "Esprit", "Eucerin", "Everlast"]
     },
     "f": {
         "stadt": ["Frankfurt (Main/Oder) (Deutschland)", "Fürth (Deutschland)", "Faro (Portugal)", "Florenz (Italien)", "Fort Lauderdale (USA)"],
@@ -51,7 +51,7 @@
         "name": ["Friderike", "Frida", "Florin", "Fritz", "Franz", "Franziska"],
         "beruf": ["Fliesenleger", "Friseur", "Falkner"],
         "tier": ["Fischotter", "Felsentaube", "Frettchen"],
-        "marke": ["In Arbeit"]
+        "marke": ["Fendi", "Faber Castell", "Fackelmann", "Ferrari", "Finn Comfort", "Fitbit", "Fjäll Räven", "FloraSelf", "Fossil"]
     },
     "g": {
         "stadt": ["Gera (Deutschland)", "Gerolstein (Deutschland)", "Göteborg (Schweden)", "Genf (Schweiz)", "Greenville (USA)"],
@@ -60,7 +60,7 @@
         "name": ["Guido", "Georg", "Gerald", "Gesine", "Gerda", "Greta"],
         "beruf": ["Gärtner", "Gleisbauer", "Geologe", "Gerüstbauer"],
         "tier": ["Giraffe", "Gnu", "Goldfisch", "Gazelle", "Gepard"],
-        "marke": ["In Arbeit"]
+        "marke": ["Gabor", "Gardena", "Garmin", "Garnier", "Gazelle", "Geox", "Good Year", "Grohe"]
     },
     "h": {
         "stadt": ["Hannover (Deutschland)", "Herne (Deutschland)", "Hamm (Deutschland)", "Huntsville (USA)", "Haugesund (Norwegen)"],
@@ -69,7 +69,7 @@
         "name": ["Hanna", "Hans", "hermine", "Henry", "Harry"],
         "beruf": ["Hausmeister", "Historiker", "Hundezüchter"],
         "tier": ["Hermelin", "Hase", "Hund", "Huhn", "Hornisse"],
-        "marke": ["In Arbeit"]
+        "marke": ["Haba", "Hagen", "Haix", "Hama", "Hecht", "Hexal", "Hollister", "Höffner"]
     },
     "i": {
         "stadt": ["Ingolstadt (Deutschland)", "Iserlohn (Deutschland)", "Idar-Oberstein (Deutschland)", "Indianapolis (USA)", "Irkutsk (Russland)", "Istanbul (Türkei)"],
@@ -78,7 +78,7 @@
         "name": ["Igor", "Ingo", "Ida", "Ina"],
         "beruf": ["Ingenieur", "Imker", "IT-Techniker", "Informatiker", "Internist"],
         "tier": ["Igel", "Iltis", "Islandponny", "Ibericoschwein"],
-        "marke": ["In Arbeit"]
+        "marke": ["Icepeak", "Ideal", "Ikea", "Indigo", "Intex"]
     },
     "j": {
         "stadt": ["Jena (Deutschland)", "Jülich (Deutschland)", "Jever (Deutschland)", "Johannesburg (Südafrika)", "Jacksonville (USA)", "Jakobstad (Finnland)", "Jordanien"],
@@ -87,7 +87,7 @@
         "name": ["Jan", "Jana", "Johan", "Johanna", "Jördis", "Jörk", "Jörn"],
         "beruf": ["Journalist", "Jugenderzieher", "Justizwachmeister"],
         "tier": ["Jaguar", "Junikäfer"],
-        "marke": ["In Arbeit"]
+        "marke": ["Jack Jones", "Jack Wolfskin", "Jaguar", "Jako", "Jana", "Jansport", "Jumbo", "Jägermeister"]
     },
     "k": {
         "stadt": ["Köln (Deutschland)", "Kassel (Deutschland)", "Kappeln (Deutschland)", "Kiel (Deutschland)", "Krakau (Polen)", "Kursk (Russland)"],
@@ -96,7 +96,7 @@
         "name": ["Kerstin", "Kai", "Karl"],
         "beruf": ["Küster", "Kantor", "Konditor", "Kardiologe", "Kanalbauer"],
         "tier": ["Kuh", "Katze", "Kamel", "Kolibir", "Kholmeise", "Kohlweisling"],
-        "marke": ["In Arbeit"]
+        "marke": ["K Swiss", "Kappa", "Kampa", "KangaRoos", "Karl Lagerfeld", "Kartell", "Keen", "Kempa", "Kettler", "KitchenAid", "Kosmos"]
     },
     "l": {
         "stadt": ["Ludwigshafen (Deutschland)", "Ludwigsburg (Deutschland)", "Lyon (Frankreich)", "London (England)", "Los Angeles (USA)"],
@@ -105,7 +105,7 @@
         "name": ["Lara", "Leonie", "Lina", "Leon", "Laureen"],
         "beruf": ["Landwirt", "Logopäde"],
         "tier": ["Leopard", "Lama", "Lippenbär", "Löwe"],
-        "marke": ["In Arbeit"]
+        "marke": ["Louis Vuitton", "Lacoste", "Lafuma", "Lands End", "Lavera", "Lego", "Leifheit", "Leitz", "Levis", "Lotto", "Lowa", "Loreal"]
     },
     "m": {
         "stadt": ["München (Deutschland)", "Mainz (Deutschland)", "Montreal (Kanada)", "Melbourne (Australien)", "Mannheim (Deutschland)"],
@@ -114,7 +114,7 @@
         "name": ["Malte", "Madita", "Marvin", "Malon", "Marion"],
         "beruf": ["Maler", "Maurer", "Mediengestalter"],
         "tier": ["Mücken", "Malaienbär", "Maskenkiebitz"],
-        "marke": ["In Arbeit"]
+        "marke": ["Mammut", "Mango", "Marc O Polo", "Mc Kinley", "Meindl", "Michael Kors", "Mustang", "Möma"]
     },
     "n": {
         "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
@@ -123,7 +123,7 @@
         "name": ["Noel", "Nele", "Namika", "Natalie", "Niko"],
         "beruf": ["Notfallsanitäter", "Notarzt"],
         "tier": ["Nasenbär", "Nilkrokodil", "Nacktnasenwombat"],
-        "marke": ["In Arbeit"]
+        "marke": ["Napoleon", "Neudorff", "New Balance", "Next", "Nici", "Nike", "Nuk", "Nutella"]
     },
     "o": {
         "stadt": ["Oldenburg (Deutschland)", "Olpe (Deutschland)", "Oelde (Deutschland)", "Ostrava (Tschechien)", "Omaha (USA)"],
@@ -132,7 +132,7 @@
         "name": ["Ole", "Olaf", "Otto"],
         "beruf": ["Orthopaedieschuhmacher", "Operationstechnischer Assistent", "Oberflaechenbeschichter"],
         "tier": ["Orang-Utan", "Ochse", "Okapi"],
-        "marke": ["In Arbeit"]
+        "marke": ["Oneal", "Oneill", "Oakley", "Obi", "Odlo", "Old Spice", "Omega", "Oral B", "Ostmann", "Otto"]
     },
     "p": {
         "stadt": ["Potsdam (Deutschland)", "Paderborn (Deutschland)", "Pforzheim (Deutschland)", "Porto (Portugal)", "Portland (USA)"],
@@ -141,7 +141,7 @@
         "name": ["Phillip", "Paul", "Peter", "Pascal"],
         "beruf": ["Physiotherapeut", "Podologe", "Produktionstechnologe", "Patentanwaltsfachangestellter"],
         "tier": ["Pferd", "Pinguin", " Palmkakadu"],
-        "marke": ["In Arbeit"]
+        "marke": ["Parkside", "Pelikan", "Peter Hahn", "Philips", "Pikolinos", "Police", "Powerfix", "Puky", "Puma"]
     },
     "q": {
         "stadt": ["Quickborn (Deutschland)", "Quedlinburg (Deutschland)", "Quakenbrück (Deutschland)", "Quebec (Kanada)", "Quimper (Frankreich)"],
@@ -150,7 +150,7 @@
         "name": ["Quinn"],
         "beruf": ["Es gibt leider keinen Namen mit dem Anfangsbuchstaben Q"],
         "tier": ["Qualle", "Quastenflosser"],
-        "marke": ["In Arbeit"]
+        "marke": ["Q&Q", "Qdo", "Quadra", "Quaker", "Qualitex", "Quick Star", "Quiksilver"]
     },
     "r": {
         "stadt": ["Regensburg (Deutschland)", "Rheine (Deutschland)", "Rheinbach (Deutschland)", "Rom (Italien)", "Reno (USA)"],
@@ -159,7 +159,7 @@
         "name": ["Rainer", "Rene", "Rolf", "Rudolf"],
         "beruf": ["Rechtsanwaltsfachangestellter", "Restaurantfachmann"],
         "tier": ["Rentier", "Rotfuchs", "Riesentrappe"],
-        "marke": ["In Arbeit"]
+        "marke": ["Rabe", "Rainbow", "Ralph Lauren", "Rauch", "Reebok", "Reima", "Richter", "Rieker", "Roller", "Roth", "Rösle"]
     },
     "s": {
         "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
@@ -168,7 +168,7 @@
         "name": ["Sandra", "Siegfried", "Sabina", "Sabrina"],
         "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Strassenwaerter", "Strassenbauer", "Systemelektroniker"],
         "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen"],
-        "marke": ["In Arbeit"]
+        "marke": ["S Oliver", "Salewa", "Salomon", "Samsung", "Saucony", "Schöffek", "Scout", "Stihl", "Stone Island", "Swatch"]
     },
     "t": {
         "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
@@ -177,7 +177,7 @@
         "name": ["Timo", "Tammo", "Tim", "Tom", "Torben"],
         "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher"],
         "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"],
-        "marke": ["In Arbeit"]
+        "marke": ["Tomaris", "Tat Onka", "Tchibo", "Tefal", "Tesa", "The North Face", "Thule", "Titan", "Tom Tailor", "Toom"]
     },
     "u": {
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
@@ -186,7 +186,7 @@
         "name": ["Ursula", "Ute", "Uwe"],
         "beruf": ["Uhrmacher", "Umweltschutztechnischer Assistent"],
         "tier": ["Uhu", "Uferschnepfe", "Uferschwalbe", "Uganda-Giraffe"],
-        "marke": ["In Arbeit"]
+        "marke": ["Ufo", "Uhu", "Umbro", "Under Armour", "Unicorn", "Unimet", "Universal", "Ursus", "Uvex"]
     },
     "v": {
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
@@ -195,7 +195,7 @@
         "name": ["Valentia", "Valenta", "Valene", "Valencia"],
         "beruf": ["Veranstaltungskaufmann", "Verfahrenstechnologe", "Verfahrensmechaniker"],
         "tier": ["Vielfraß", "Vierauge", "Vipern", "Vergoldeter Flohkäfer", "Vari"],
-        "marke": ["In Arbeit"]
+        "marke": ["Volkswagen", "Vans", "Vaude", "Velux", "Venice Beach", "Vespa", "Vileda", "Villeroy & Boch"]
     },
     "w": {
         "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
@@ -204,7 +204,7 @@
         "name": ["Wolf", "Willi", "Winnie", "Werner", "Wilhelm", "William", "Wolfgang"],
         "beruf": ["Wärme, Kälte und Schallschutzisolierer", "Wasserbauer", "Weintechnologe", "Werkfeuerwehrmann", "Werkstoffprüfer"],
         "tier": ["Wacholderdrossel", "Wachtelkönig", "Waldammer", "Wald-Dickkopf", "Waldfrosch"],
-        "marke": ["In Arbeit"]
+        "marke": ["Wagner", "Weber", "Wehncke", "Wella", "Wesco", "Wmf", "Wolf Garden"]
     },
     "x": {
         "stadt": ["Xanten (Deutschland)", "Xiamen (China)", "Xuzhou (China)"],
@@ -213,7 +213,7 @@
         "name": ["Xenia", "Xandra", "Xanthos"],
         "beruf": ["Xylophonist", "Xylophonbauer"],
         "tier": ["Xysticus audax", "Xenesthis immanis"],
-        "marke": ["In Arbeit"]
+        "marke": ["X Cape", "X Film", "Xavax", "Xdrum", "Xenox", "Xerox", "Xiaomi"]
     },
     "y": {
         "stadt": ["York (England)"],
@@ -222,7 +222,7 @@
         "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin"],
         "beruf": ["Youtuber", "Yachtbauer", "Yogalehrer"],
         "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"],
-        "marke": ["In Arbeit"]
+        "marke": ["Yamaha", "Yeti", "Ykk", "York Fitness"]
     },
     "z": {
         "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
@@ -231,6 +231,7 @@
         "name": ["Zoe", "Zelda", "Zoro", "Zoella", "Zilla"],
         "beruf": ["Zahnmedizinischer Fachangestellter", "Zahntechniker", "Zimmerer", "Zerspanungsmechaniker"],
         "tier": ["Zander", "Zackeneule", "Zaunkönig", "Zebrahai", "Zechgraumull"],
-        "marke": ["In Arbeit"]
+        "marke": ["Zack", "Zara".
+            "Zeiss", "Zero", "Zewa", "Zwilling"]
     }
 }
