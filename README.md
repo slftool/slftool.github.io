@@ -4,7 +4,7 @@
 [![Discord](https://discordapp.com/api/guilds/365206523749728266/embed.png)](https://discord.gg/rpvdY42)
 [![XDA](https://img.shields.io/badge/xda-Stadt%20Land%20Fluss%20L%C3%B6sung-blue.svg)](https://labs.xda-developers.com/store/app/me.neocode.slftool)
 
-Stadt Land Fluss Lösung in kompakter Form
+<a href='#'><img height="80px" alt='Jetzt bei Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/de_badge_web_generic.png'/></a>
 
 ### Unterstützte Wörter
 * Stadt
