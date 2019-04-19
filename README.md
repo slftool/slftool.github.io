@@ -4,7 +4,7 @@
 [![Discord](https://discordapp.com/api/guilds/365206523749728266/embed.png)](https://discord.gg/rpvdY42)
 [![XDA](https://img.shields.io/badge/xda-Stadt%20Land%20Fluss%20L%C3%B6sung-blue.svg)](https://labs.xda-developers.com/store/app/me.neocode.slftool)
 
-<a href='#'><img height="80px" alt='Jetzt bei Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/de_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=me.neocode.slftool&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="80px" alt='Jetzt bei Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/de_badge_web_generic.png'/></a>
 
 ### Unterstützte Wörter
 * Stadt
