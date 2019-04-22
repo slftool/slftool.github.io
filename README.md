@@ -1,7 +1,7 @@
 <h1 align="center">Stadt Land Fluss Tool</h1>
 <p align="center">
 <a href="https://github.com/slftool/slftool.github.io/blob/master/LICENSE"><img src="https://img.shields.io/github/license/SLFTool/slftool.github.io.svg"></a>
-<a href="https://discord.gg/rpvdY42"><img src="https://discordapp.com/api/guilds/365206523749728266/embed.png"></a>
+<a><img src="https://img.shields.io/github/last-commit/slftool/slftool.github.io.svg"></a>
 <a href="https://discord.gg/rpvdY42"><img src="https://discordapp.com/api/guilds/365206523749728266/embed.png"></a>
 </p>
 <p align="center">
