@@ -1,8 +1,8 @@
 ---
-name: Wort idee
+name: Wort Idee
 about: Schlagen Sie eine Idee für dieses Projekt vor.
-title: ''
-labels: ''
+title: 'Wort Idee'
+labels: 'word idea'
 assignees: xRealNeon
 
 ---
