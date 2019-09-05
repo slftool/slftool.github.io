@@ -138,6 +138,8 @@ function change() {
                 //cdiv.innerHTML = JSON.stringify(ledata);
 
                 //console.log(ledata);
+            }else {
+                document.getElementById("content").innerHTML = "<h2>Bitte gebe einen gültigen Buchstaben ein<h2>";
             }
 
         }
