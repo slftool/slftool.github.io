@@ -21,7 +21,7 @@ function init() {
     if(navigator.userAgent.includes("Android")) {
         Swal.fire({
             title: 'Android App',
-            text: "Du kannst dir die SLF App runterladen für eine besseres erlebnis und weniger datenverbrauch",
+            text: "Du kannst dir die SLF App runterladen für ein besseres erlebnis und weniger datenverbrauch",
             type: 'info',
             showCancelButton: true,
             confirmButtonColor: '#3085d6',
