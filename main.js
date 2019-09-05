@@ -32,7 +32,7 @@ function init() {
         }).then((result) => {
             if (result.value) {
                 console.log("open google play page!");
-                window.open('market://details?id=me.neocode.slftool', '_blank');
+                window.open('market://details?id=me.neocode.slftool');
             }
         })
     }
