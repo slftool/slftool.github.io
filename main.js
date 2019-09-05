@@ -17,8 +17,8 @@ function init() {
         data = JSON.parse(response);
         console.log("loaded database!");
     });
-    
-    if(navigator.userAgent.includes("Android")) {
+
+    if (navigator.userAgent.includes("Android")) {
         console.log("android device detected!");
         Swal.fire({
             title: 'Android App',
@@ -32,7 +32,7 @@ function init() {
         }).then((result) => {
             if (result.value) {
                 console.log("open google play page!");
-                window.open('https://play.google.com/store/apps/details?id=me.neocode.slftool', '_blank');
+                window.open('market://details?id=me.neocode.slftool', '_blank');
             }
         })
     }
@@ -138,7 +138,7 @@ function change() {
                 //cdiv.innerHTML = JSON.stringify(ledata);
 
                 //console.log(ledata);
-            }else {
+            } else {
                 document.getElementById("content").innerHTML = "<h2>Bitte gebe einen gültigen Buchstaben ein<h2>";
             }
 
