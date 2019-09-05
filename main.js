@@ -17,6 +17,23 @@ function init() {
         data = JSON.parse(response);
         console.log("Loaded Database!");
     });
+    
+    if(navigator.userAgent.includes("Android")) {
+        Swal.fire({
+            title: 'Android App',
+            text: "Du kannst dir die SLF App runterladen für eine besseres erlebnis und weniger datenverbrauch",
+            type: 'info',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            cancelButtonText: 'Abbrechen',
+            confirmButtonText: 'App runterladen!'
+        }).then((result) => {
+            if (result.value) {
+                window.open('https://play.google.com/store/apps/details?id=me.neocode.slftool', '_blank');
+            }
+        })
+    }
 }
 
 var last;
