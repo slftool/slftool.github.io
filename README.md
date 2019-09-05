@@ -18,6 +18,7 @@
 * Marke
 
 ### In Arbeit
+* Pflanze
 * [Neue Ideen?](https://github.com/slftool/slftool.github.io/issues/new)
 
 ### Für Developer
