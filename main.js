@@ -132,12 +132,7 @@ function change() {
             }
             if (ledata != undefined) {
                 var cdiv = document.getElementById("content");
-
                 cdiv.innerHTML = '<h2>Stadt: ' + ledata.stadt[Math.floor(Math.random() * ledata.stadt.length)] + '</h2>' + '<h2>Land: ' + ledata.land[Math.floor(Math.random() * ledata.land.length)] + '</h2>' + '<h2>Fluss: ' + ledata.fluss[Math.floor(Math.random() * ledata.fluss.length)] + '</h2>' + '<h2>Name: ' + ledata.name[Math.floor(Math.random() * ledata.name.length)] + '</h2>' + '<h2>Beruf: ' + ledata.beruf[Math.floor(Math.random() * ledata.beruf.length)] + '</h2>' + '<h2>Tier: ' + ledata.tier[Math.floor(Math.random() * ledata.tier.length)] + '</h2>' + '<h2>Marke: ' + ledata.marke[Math.floor(Math.random() * ledata.marke.length)] + '</h2>'
-
-                //cdiv.innerHTML = JSON.stringify(ledata);
-
-                //console.log(ledata);
             } else {
                 document.getElementById("content").innerHTML = "<h2>Bitte gebe einen gültigen Buchstaben ein<h2>";
             }
