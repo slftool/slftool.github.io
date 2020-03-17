@@ -19,8 +19,8 @@
 
 ### In Arbeit
 * Pflanze
-* [Neue Idee?](https://github.com/slftool/slftool.github.io/issues/new)
+* [Neue Idee?](https://github.com/slftool/slftool.github.io/issues/new?assignees=xRealNeon&labels=word+idea&template=wort-idee.md&title=Wort+Idee)
 
 ### Für Developer
 Unter `https://slftool.github.io/data.json` findet ihr die Datenbank ihr könnt sie für eure zwecke mit der [MIT Lizenz](https://github.com/slftool/slftool.github.io/blob/master/LICENSE) benutzen.<br/>
-  Wenn ihr Fehler finden solltet dann mach bitte eine [issue](https://github.com/slftool/slftool.github.io/issues/new) auf.
+  Wenn ihr Fehler finden solltet dann mach bitte eine [issue](https://github.com/slftool/slftool.github.io/issues/new?assignees=xRealNeon&labels=word+idea&template=wort-idee.md&title=Wort+Idee) auf.
