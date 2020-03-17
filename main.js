@@ -2,8 +2,9 @@ var HttpClient = function () {
     this.get = function (aUrl, aCallback) {
         var anHttpRequest = new XMLHttpRequest();
         anHttpRequest.onreadystatechange = function () {
-            if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
+            if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200) {
                 aCallback(anHttpRequest.responseText);
+            }
         }
         anHttpRequest.open("GET", aUrl, true);
         anHttpRequest.send(null);
@@ -133,7 +134,7 @@ function change() {
             if (ledata != undefined) {
                 var cdiv = document.getElementById("content");
 
-                cdiv.innerHTML = '<h2>Stadt: ' + ledata.stadt[Math.floor(Math.random() * ledata.stadt.length)] + '</h2>' + '<h2>Land: ' + ledata.land[Math.floor(Math.random() * ledata.land.length)] + '</h2>' + '<h2>Fluss: ' + ledata.fluss[Math.floor(Math.random() * ledata.fluss.length)] + '</h2>' + '<h2>Name: ' + ledata.name[Math.floor(Math.random() * ledata.name.length)] + '</h2>' + '<h2>Beruf: ' + ledata.beruf[Math.floor(Math.random() * ledata.beruf.length)] + '</h2>' + '<h2>Tier: ' + ledata.tier[Math.floor(Math.random() * ledata.tier.length)] + '</h2>' + '<h2>Marke: ' + ledata.marke[Math.floor(Math.random() * ledata.marke.length)] + '</h2>'
+                cdiv.innerHTML = '<h2>Stadt: ' + ledata.stadt[Math.floor(Math.random() * ledata.stadt.length)] + '</h2>' + '<h2>Land: ' + ledata.land[Math.floor(Math.random() * ledata.land.length)] + '</h2>' + '<h2>Fluss: ' + ledata.fluss[Math.floor(Math.random() * ledata.fluss.length)] + '</h2>' + '<h2>Name: ' + ledata.name[Math.floor(Math.random() * ledata.name.length)] + '</h2>' + '<h2>Beruf: ' + ledata.beruf[Math.floor(Math.random() * ledata.beruf.length)] + '</h2>' + '<h2>Tier: ' + ledata.tier[Math.floor(Math.random() * ledata.tier.length)] + '</h2>' + '<h2>Marke: ' + ledata.marke[Math.floor(Math.random() * ledata.marke.length)] + '</h2>' + '<h2>Pflanze: ' + ledata.pflanze[Math.floor(Math.random() * ledata.pflanze.length)] + '</h2>'
 
                 //cdiv.innerHTML = JSON.stringify(ledata);
 
