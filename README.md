@@ -16,9 +16,9 @@
 * Beruf
 * Tier
 * Marke
+* Pflanze
 
 ### In Arbeit
-* Pflanze
 * [Neue Idee?](https://github.com/slftool/slftool.github.io/issues/new?assignees=xRealNeon&labels=word+idea&template=wort-idee.md&title=Wort+Idee)
 
 ### Für Developer
