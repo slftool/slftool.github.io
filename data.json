@@ -27,7 +27,7 @@
         "beruf": ["Chemiker", "Chorleiter"],
         "tier": ["Chameleon", "Chinchilla", "Chiuahua"],
         "marke": ["C & A", "Calvin Klein", "Camper", "Casio", "CAT", "Coach", "Columbia", "Crivit"],
-        "pflanze": ["Capuchina Kresse", "Charlotte", "Chilli"]
+        "pflanze": ["Capuchina Kresse", "Charlotte", "Chilli", "Christrose"]
     },
     "d": {
         "stadt": ["Dresden (Deutschland)", "Dortmund (Deutschland)", "Dorsten (Deutschland)", "Dublin (Irland)", "Dayton (USA)"],
@@ -37,7 +37,7 @@
         "beruf": ["Doktor", "Domtör", "Dachdecker", "Designer", "Drogist"],
         "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"],
         "marke": ["Dakine", "DeinDesign", "Diesel", "Dockers", "Domo"],
-        "pflanze": ["Datel", "Diestel", "Dahlie"]
+        "pflanze": ["Dattel", "Diestel", "Dahlie"]
     },
     "e": {
         "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)"],
@@ -190,13 +190,13 @@
         "pflanze": ["Salbei", "Seegras", "Salat", "Sonnenblume"]
     },
     "t": {
-        "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)"],
+        "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)", "Tauberbischofsheim (Deutschland)"],
         "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan"],
         "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"],
-        "name": ["Timo", "Tammo", "Tim", "Tom", "Torben"],
-        "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher"],
+        "name": ["Timo", "Tammo", "Tim", "Tom", "Torben", "Tina"],
+        "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher", "Techniker"],
         "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"],
-        "marke": ["Tomaris", "Tat Onka", "Tchibo", "Tefal", "Tesa", "The North Face", "Thule", "Titan", "Tom Tailor", "Toom"],
+        "marke": ["Tomaris", "Tat Onka", "Tchibo", "Tefal", "Tesa", "The North Face", "Thule", "Titan", "Tom Tailor", "Toom", "Telekom"],
         "pflane": ["Tomate", "Tanne"]
     },
     "u": {
@@ -207,7 +207,7 @@
         "beruf": ["Uhrmacher", "Umweltschutztechnischer Assistent"],
         "tier": ["Uhu", "Uferschnepfe", "Uferschwalbe", "Uganda-Giraffe"],
         "marke": ["Ufo", "Uhu", "Umbro", "Under Armour", "Unicorn", "Unimet", "Universal", "Ursus", "Uvex"],
-        "pflanze": ["In Arbeit"]
+        "pflanze": ["Ulme"]
     },
     "v": {
         "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
@@ -217,7 +217,7 @@
         "beruf": ["Veranstaltungskaufmann", "Verfahrenstechnologe", "Verfahrensmechaniker"],
         "tier": ["Vielfraß", "Vierauge", "Vipern", "Vergoldeter Flohkäfer", "Vari"],
         "marke": ["Volkswagen", "Vans", "Vaude", "Velux", "Venice Beach", "Vespa", "Vileda", "Villeroy & Boch"],
-        "pflanze": ["Pfeilchen"]
+        "pflanze": ["Veilchen"]
     },
     "w": {
         "stadt": ["Wuppertal (Deutschland)", "Werne (Deutschland)", "Würzburg (Deutschland)", "Washington (USA)", "Wien (Österreich)"],
@@ -247,7 +247,7 @@
         "beruf": ["Youtuber", "Yachtbauer", "Yogalehrer"],
         "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"],
         "marke": ["Yamaha", "Yeti", "Ykk", "York Fitness"],
-        "pflanze": ["In Arbeit"]
+        "pflanze": ["Yucca"]
     },
     "z": {
         "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
