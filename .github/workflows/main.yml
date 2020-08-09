@@ -3,14 +3,11 @@ on: [push]
 jobs:
   container-job:
     runs-on: ubuntu-latest
-    container: node:10.18-jessie
-
     services:
       languagetool:
         image: silviof/docker-languagetool
         ports: 
           - 8010:8010
-        options: --health-cmd "ping 127.0.0.1:8010" --health-interval 10s --health-timeout 5s --health-retries 10
     steps:
       - name: Checkout
         uses: actions/checkout@v2
