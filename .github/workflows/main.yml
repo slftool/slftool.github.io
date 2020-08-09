@@ -13,15 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-          
-      - name: Setup Java
-        uses: actions/setup-java@v1
-        with:
-            java-version: '9.0.4'
-            java-package: jdk
-            architecture: x64
       - name: Check DB
-        uses: slftool/Action@v2
+        uses: slftool/Action@v3
       - uses: actions/upload-artifact@v2
         with:
           name: errorlog
