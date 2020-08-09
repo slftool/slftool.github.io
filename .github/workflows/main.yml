@@ -14,7 +14,7 @@ jobs:
             java-package: jdk # (jre, jdk, or jdk+fx) - defaults to jdk
             architecture: x64 # (x64 or x86) - defaults to x64
       - name: Check DB
-        uses: slftool/Action@v1
+        uses: slftool/Action
       - uses: actions/upload-artifact@v2
         with:
           name: errorlog
