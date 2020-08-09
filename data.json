@@ -52,7 +52,7 @@
     "f": {
         "stadt": ["Frankfurt (Main/Oder) (Deutschland)", "Fürth (Deutschland)", "Faro (Portugal)", "Florenz (Italien)", "Fort Lauderdale (USA)"],
         "land": ["Finnland", "Frankreich", "Fidschi"],
-        "fluss": ["Fulda (Deutschland)", "Fraser River (Kanada)", "Fly ( Neuguinea)"],
+        "fluss": ["Fulda (Deutschland)", "Fraser River (Kanada)", "Fly (Neuguinea)"],
         "name": ["Friderike", "Frida", "Florin", "Fritz", "Franz", "Franziska"],
         "beruf": ["Fliesenleger", "Friseur", "Falkner"],
         "tier": ["Fischotter", "Felsentaube", "Frettchen"],
@@ -234,7 +234,7 @@
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben X"],
         "fluss": ["Xiliao He (China)", "Xar Moron He (China)"],
         "name": ["Xenia", "Xandra", "Xanthos"],
-        "beruf": ["Xylophonist", "Xylophonbauer"],
+        "beruf": ["Xylofonist", "Xylofonbauer"],
         "tier": ["Xysticus audax", "Xenesthis immanis"],
         "marke": ["X Cape", "X Film", "Xavax", "Xdrum", "Xenox", "Xerox", "Xiaomi"],
         "pflanze": ["In Arbeit"]
