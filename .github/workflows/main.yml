@@ -7,9 +7,10 @@ jobs:
 
     services:
       languagetool:
-        image: silviof/docker-languagetool
+        image: silviof/docker-ddddd
         ports: 
           - 8010:8010
+        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
     steps:
       - name: Checkout
         uses: actions/checkout@v2
