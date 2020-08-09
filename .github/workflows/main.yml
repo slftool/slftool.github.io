@@ -1,0 +1,21 @@
+on: [push]
+
+jobs:
+  db_check:
+    runs-on: ubuntu-latest
+    name: Checks the DB
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Java
+        uses: actions/setup-java@v1
+        with:
+            java-version: '9.0.4' # The JDK version to make available on the path.
+            java-package: jdk # (jre, jdk, or jdk+fx) - defaults to jdk
+            architecture: x64 # (x64 or x86) - defaults to x64
+      - name: Check DB
+        uses: slftool/Action@v1
+      - uses: actions/upload-artifact@v2
+        with:
+          name: errorlog
+          path: errorlog.txt
