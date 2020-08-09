@@ -8,6 +8,7 @@ jobs:
     services:
       languagetool:
         image: silviof/docker-languagetool
+        options: --rm -p 8010:8010 
         ports: 
           - 8010:8010
     steps:
