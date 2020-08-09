@@ -8,11 +8,7 @@ jobs:
     services:
       languagetool:
         image: silviof/docker-languagetool
-        options: --rm -p 8010:8010 >-
-          --health-cmd pg_isready
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
+        options: --rm -p 8010:8010 --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
         ports: 
           - 8010:8010
     steps:
