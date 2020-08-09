@@ -197,7 +197,7 @@
         "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher", "Techniker"],
         "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"],
         "marke": ["Tomaris", "Tat Onka", "Tchibo", "Tefal", "Tesa", "The North Face", "Thule", "Titan", "Tom Tailor", "Toom", "Telekom"],
-        "pflane": ["Tomate", "Tanne"]
+        "pflanze": ["Tomate", "Tanne"]
     },
     "u": {
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
