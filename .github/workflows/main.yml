@@ -1,12 +1,22 @@
 on: [push]
 
 jobs:
+  container-job:
+    runs-on: ubuntu-latest
+    container: node:10.18-jessie
+
+    services:
+      languagetool:
+        image: silviof/docker-languagetool
+        ports: 
+          - 8010:8010
   db_check:
     runs-on: ubuntu-latest
     name: Checks the DB
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+          
       - name: Setup Java
         uses: actions/setup-java@v1
         with:
