@@ -10,9 +10,6 @@ jobs:
         image: silviof/docker-languagetool
         ports: 
           - 8010:8010
-  db_check:
-    runs-on: ubuntu-latest
-    name: Checks the DB
     steps:
       - name: Checkout
         uses: actions/checkout@v2
