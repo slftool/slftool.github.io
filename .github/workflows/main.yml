@@ -7,7 +7,7 @@ jobs:
 
     services:
       languagetool:
-        image: gentics/languagetool
+        image: silviof/docker-languagetool
         ports: 
           - 8010:8010
     steps:
