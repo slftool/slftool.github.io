@@ -1,33 +1,33 @@
 {
     "a": {
-        "stadt": ["Aalen", "Aachen", "Amberg", "Athen (Griechenland)"],
-        "land": ["Albanien", "Armenien", "Andorra", "Algerien"],
+        "stadt": ["Aalen", "Aachen", "Amberg", "Athen (Griechenland)", "Aschaffenburg", "Augsburg", "Amsterdam (Niederlande)"],
+        "land": ["Albanien", "Armenien", "Andorra", "Algerien", "Australien", "Argentinien"],
         "fluss": ["Aller (Deutschland)", "Amazonas (Brasilien)", "Alz (Deutschland)", "Ätran (Schweden)", "Aa (Deutschland)"],
         "name": ["Alexander", "Alexandra", "Anette", "Amanda", "Anton"],
         "beruf": ["Atomphysiker", "Anlagenbauer", "Autor", "Astronaut"],
-        "tier": ["Aul", "Affe", "Ara", "Ameise", "Amaisenbär"],
+        "tier": ["Aul", "Affe", "Ara", "Ameise", "Amaisenbär", "Aal"],
         "marke": ["Adidas", "Abus", "Alpina", "Asics"],
         "pflanze": ["Agave", "Apfel", "Avocado", "Ananas", "Ahorn", "Alge"]
     },
     "b": {
-        "stadt": ["Bamberg", "Bonn", "Böblingen", "Boston", "Birmingham"],
-        "land": ["Belgien", "Brasilien", "Bolivien", "Bermudas", "Bahrain"],
+        "stadt": ["Bamberg", "Bonn", "Böblingen", "Boston", "Birmingham", "Bad Kreuznach", "Bayreuth", "Berlin"],
+        "land": ["Belgien", "Brasilien", "Bolivien", "Bermudas", "Bahrain", "Bosnien", "Belize"],
         "fluss": ["Bigge (Deutschland)", "Brahmaputra (u.a. Indien)", "Belaja (Russland)", "Blies (Frankreich und Deutschland)"],
-        "name": ["Benjamin", "Benny", "Bernd", "Barbara", "Beate"],
-        "beruf": ["Busfahrer", "Beamter", "Bundesminister"],
-        "tier": ["Bär", "Biene", "Beluga", "Biber", "Bea", "Bison", "Blaumeise"],
-        "marke": ["Basil", "Barbour", "Bench", "Billa Bong", "Blomus", "Bosch", "Braum"],
-        "pflanze": ["Berlauch", "Bartlilie"]
+        "name": ["Benjamin", "Benny", "Bernd", "Barbara", "Beate", "Boris", "Birgit"],
+        "beruf": ["Busfahrer", "Beamter", "Bundesminister", "Bäcker" , "Bankkaufmann", "Bauzeichner", "Bestatter"],
+        "tier": ["Bär", "Biene", "Beluga", "Biber", "Bea", "Bison", "Blaumeise", "Blauwal", "Blindschleiche"],
+        "marke": ["Basil", "Barbour", "Bench", "Billa Bong", "Blomus", "Bosch", "Braum", "BMW", "Bogner"],
+        "pflanze": ["Bärlauch", "Bartlilie", "Begonie"]
     },
     "c": {
         "stadt": ["Chemnitz (Deutschland)", "Cuxhaven (Deutschland)", "Castrop-Rauxel (Deutschland)", "Charleston (USA)", "Calvi (Frankreich)"],
         "land": ["China", "Costa Rica", "Chile", "Cookinseln"],
-        "fluss": ["Chemnitz (Deutschland)", "Colorado (USA)", "Charente (Frankreich)", "Churchill River (Kanada)"],
+        "fluss": ["Chemnitz (Deutschland)", "Colorado (USA)", "Charente (Frankreich)", "Churchill River (Kanada)", "Cooper Creek (Australien)"],
         "name": ["Christian", "Claus", "Christoph", "Conni", "Clara"],
-        "beruf": ["Chemiker", "Chorleiter"],
-        "tier": ["Chameleon", "Chinchilla", "Chiuahua"],
+        "beruf": ["Chemiker", "Chorleiter", "Chauffeur", "Chirurg"],
+        "tier": ["Chameleon", "Chinchilla", "Chiuahua", "Clownfisch"],
         "marke": ["C & A", "Calvin Klein", "Camper", "Casio", "CAT", "Coach", "Columbia", "Crivit"],
-        "pflanze": ["Capuchina Kresse", "Charlotte", "Chilli", "Christrose"]
+        "pflanze": ["Capuchina Kresse", "Charlotte", "Chilli", "Christrose", "Clematis"]
     },
     "d": {
         "stadt": ["Dresden (Deutschland)", "Dortmund (Deutschland)", "Dorsten (Deutschland)", "Dublin (Irland)", "Dayton (USA)"],
@@ -35,12 +35,12 @@
         "fluss": ["Donau (Europa)", "Don (Russland)", "Dnister (Ukraine)", "Dinkel (Deutschland)"],
         "name": ["Daniel", "Dennis", "Dora", "Detlef"],
         "beruf": ["Doktor", "Domtör", "Dachdecker", "Designer", "Drogist"],
-        "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch"],
+        "tier": ["Dachs", "Diamanttaube", "Dingo", "Distelfink", "Dorsch", "Dackel", "Dalmatiner"],
         "marke": ["Dakine", "DeinDesign", "Diesel", "Dockers", "Domo"],
         "pflanze": ["Dattel", "Diestel", "Dahlie"]
     },
     "e": {
-        "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)"],
+        "stadt": ["Essen (Deutschland)", "Esslingen (Deutschland)", "Exeter (England)", "Eindhoven (Niederlande)", "Emden"],
         "land": ["Estland", "Ecuador", "El Salvador", "Eritrea"],
         "fluss": ["Ems (Deutschland)", "Emscher (Deutschland)", "Elbe (Europa)", "Euphrat (Asien)", "Ebro (Spanien)"],
         "name": ["Emma", "Elara", "Erika", "Ella", "Emil", "Edgar"],
@@ -114,7 +114,7 @@
         "land": ["Lettland", "Libanon", "Liberia", "Libyen", "Luxemburg"],
         "fluss": ["Lech (Deutschland)", "Lippe (Deutschland)", "Lahn (Deutschland)", "Limpopo (Afrika)", "Lena (Russland)"],
         "name": ["Lara", "Leonie", "Lina", "Leon", "Laureen"],
-        "beruf": ["Landwirt", "Logopäde"],
+        "beruf": ["Landwirt", "Logopäde", "Lehrer", "Lagerist"],
         "tier": ["Leopard", "Lama", "Lippenbär", "Löwe"],
         "marke": ["Louis Vuitton", "Lacoste", "Lafuma", "Lands End", "Lavera", "Lego", "Leifheit", "Leitz", "Levis", "Lotto", "Lowa", "L’Oréal"],
         "pflanze": ["Litchi", "Lavendel", "Liane"]
@@ -131,7 +131,7 @@
     },
     "n": {
         "stadt": ["Nürnberg (Deutschland)", "Neuss (Deutschland)", "Nürtingen (Deutschland)", "New York (USA)", "Narvik (Norwegen)"],
-        "land": ["Norwegen", "Namibia", "Nepal", "Niederlande", "Niger"],
+        "land": ["Norwegen", "Namibia", "Nepal", "Niederlande", "Niger", "Neuseeland", "Nicaragua"],
         "fluss": ["Neckar (Deutschland)", "Nahe (Deutschland)", "Nagold (Deutschland)", "Nil (Afrika)", "Nelson River (Kanada)"],
         "name": ["Noel", "Nele", "Namika", "Natalie", "Niko"],
         "beruf": ["Notfallsanitäter", "Notarzt"],
@@ -181,23 +181,23 @@
     },
     "s": {
         "stadt": ["Siegen (Deutschland)", "Siegburg (Deutschland)", "Schleswig (Deutschland)", "Sydney (Australien)", "Salzburg (Österreich)"],
-        "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien"],
+        "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien", "Samoa", "Sambia", "Schweden"],
         "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"],
-        "name": ["Sandra", "Siegfried", "Sabina", "Sabrina"],
+        "name": ["Sandra", "Siegfried", "Sabina", "Sabrina", "Simone", "Sven", "Silvia"],
         "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Strassenwaerter", "Strassenbauer", "Systemelektroniker"],
-        "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen"],
+        "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen", "Schaf", "Spinne", "Skorpion", "Schwan", "Schwein"],
         "marke": ["S Oliver", "Salewa", "Salomon", "Samsung", "Saucony", "Schöffek", "Scout", "Stihl", "Stone Island", "Swatch"],
         "pflanze": ["Salbei", "Seegras", "Salat", "Sonnenblume"]
     },
     "t": {
         "stadt": ["Tübingen (Deutschland)", "Tönning (Deutschland)", "Tampere (Finnland)", "Turin (Italien)", "Toledo (USA)", "Tauberbischofsheim (Deutschland)"],
-        "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan"],
+        "land": ["Thailand", "Türkei", "Turkmenistan", "Tunesien", "Taiwan", "Togo", "Tschad", "Tansania"],
         "fluss": ["Trave (Deutschland)", "Tauber (Deutschland)", "Themse (England)", "Tiber (Italien)", "Tura (Russland)"],
-        "name": ["Timo", "Tammo", "Tim", "Tom", "Torben", "Tina"],
+        "name": ["Timo", "Tammo", "Tim", "Tom", "Torben", "Tina", "Thomas", "Tobias"],
         "beruf": ["Textillaborant", "Textilreiniger", "Textil und Modenäher", "Techniker"],
         "tier": ["Tiger", "Tintenfisch", "Taube", "Thunfisch", "Tapir"],
         "marke": ["Tomaris", "Tat Onka", "Tchibo", "Tefal", "Tesa", "The North Face", "Thule", "Titan", "Tom Tailor", "Toom", "Telekom"],
-        "pflanze": ["Tomate", "Tanne"]
+        "pflanze": ["Tomate", "Tanne", "Tulpe", "Tabak", "Tüpfelfarn", "Thymian"]
     },
     "u": {
         "stadt": ["Ulm (Deutschland)", "Uelzen (Deutschland)", "Unna (Deutschland)", "Ube (Japan)", "Ulsan (Südkorea)"],
@@ -210,10 +210,10 @@
         "pflanze": ["Ulme"]
     },
     "v": {
-        "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)"],
-        "land": ["Vanuta", "Venezuela", "Vietnam", "Vereinigte arabische Emirate"],
+        "stadt": ["Viersen (Deutschland)", "Verl (Deutschland)", "Vechta (Deutschland)", "Valencia (Spanien)", "Vancouver (Kanada)", "Venedig (Italien)"],
+        "land": ["Vanuta", "Venezuela", "Vietnam", "Vereinigte arabische Emirate", "Vatikanstadt"],
         "fluss": ["Vechte (Deutschland)", "Vils (Deutschland)", "Vaal (Südafrika)", "Volta (Afrika)"],
-        "name": ["Valentia", "Valenta", "Valene", "Valencia"],
+        "name": ["Valentia", "Valenta", "Valene", "Valencia", "Valantin", "Vincent"],
         "beruf": ["Veranstaltungskaufmann", "Verfahrenstechnologe", "Verfahrensmechaniker"],
         "tier": ["Vielfraß", "Vierauge", "Vipern", "Vergoldeter Flohkäfer", "Vari"],
         "marke": ["Volkswagen", "Vans", "Vaude", "Velux", "Venice Beach", "Vespa", "Vileda", "Villeroy & Boch"],
@@ -242,7 +242,7 @@
     "y": {
         "stadt": ["York (England)"],
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben Y"],
-        "fluss": ["Yukon (USA)"],
+        "fluss": ["Yukon (USA)", "Yalong (China)", "Yamuna (Inden)"],
         "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin"],
         "beruf": ["Youtuber", "Yachtbauer", "Yogalehrer"],
         "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"],
@@ -250,7 +250,7 @@
         "pflanze": ["Yucca"]
     },
     "z": {
-        "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)"],
+        "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)", "Zagreb (Kroatien)"],
         "land": ["Zypern", "Zentralafrikanische Republik"],
         "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)"],
         "name": ["Zoe", "Zelda", "Zoro", "Zoella", "Zilla"],
