@@ -73,7 +73,7 @@
         "stadt": ["Hannover (Deutschland)", "Herne (Deutschland)", "Hamm (Deutschland)", "Huntsville (USA)", "Haugesund (Norwegen)"],
         "land": ["Haiti", "Honduras"],
         "fluss": ["Havel (Deutschland)", "Hunte (Deutschland)", "Hudson River (USA)"],
-        "name": ["Hanna", "Hans", "Hermine", "Henry", "Harry"],
+        "name": ["Hanna", "Hans", "Hermine", "Henry", "Harry", "Henrik", "Hendrik"],
         "beruf": ["Hausmeister", "Historiker", "Hundezüchter"],
         "tier": ["Hermelin", "Hase", "Hund", "Huhn", "Hornisse"],
         "marke": ["Haba", "Hagen", "Haix", "Hama", "Hecht", "Hexal", "Hollister", "Höffner"],
@@ -155,7 +155,7 @@
         "fluss": ["Pader (Deutschland)", "Peene (Deutschland)", "Prüm (Deutschland)", "Po (Italien)", "Pandsch (Asien)"],
         "name": ["Phillip", "Paul", "Peter", "Pascal"],
         "beruf": ["Physiotherapeut", "Podologe", "Produktionstechnologe", "Patentanwaltsfachangestellter"],
-        "tier": ["Pferd", "Pinguin", " Palmkakadu"],
+        "tier": ["Pferd", "Pinguin", "Palmkakadu"],
         "marke": ["Parkside", "Pelikan", "Peter Hahn", "Philips", "Pikolinos", "Police", "Powerfix", "Puky", "Puma"],
         "pflanze": ["Petersilie", "Pfeffer", "Papaya", "Paprika"]
     },
