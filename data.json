@@ -44,7 +44,7 @@
         "land": ["Estland", "Ecuador", "El Salvador", "Eritrea"],
         "fluss": ["Ems (Deutschland)", "Emscher (Deutschland)", "Elbe (Europa)", "Euphrat (Asien)", "Ebro (Spanien)"],
         "name": ["Emma", "Elara", "Erika", "Ella", "Emil", "Edgar"],
-        "beruf": ["Elektriker", "Estrichleger", "Erziher", "Eisenbahner"],
+        "beruf": ["Elektriker", "Estrichleger", "Erzieher", "Eisenbahner"],
         "tier": ["Esel", "Elephant", "Emo", "Eichelhäher"],
         "marke": ["Eastpak", "Ecco", "Edding", "Einhell", "Ergobag", "Esprit", "Eucerin", "Everlast"],
         "pflanze": ["Erbse", "Eichel", "Erdenuss", "Erdbeere", "Efeu"]
@@ -184,7 +184,7 @@
         "land": ["Spanien", "Slowakei", "Schweiz", "Senegal", "Syrien", "Samoa", "Sambia", "Schweden"],
         "fluss": ["Sieg (Deutschland)", "Spree (Deutschland)", "Schwentine (Deutschland)", "Seine (Frankreich)", "Sambesi (Afrika)"],
         "name": ["Sandra", "Siegfried", "Sabina", "Sabrina", "Simone", "Sven", "Silvia"],
-        "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Strassenwaerter", "Strassenbauer", "Systemelektroniker"],
+        "beruf": ["Schauspieler", "Schornsteinfeger", "Sportlehrer", "Straßenwärter", "Straßenbauer", "Systemelektroniker"],
         "tier": ["Schildkröte", "Schnecke", "Seehund", "Seepferdchen", "Schaf", "Spinne", "Skorpion", "Schwan", "Schwein"],
         "marke": ["S Oliver", "Salewa", "Salomon", "Samsung", "Saucony", "Schöffek", "Scout", "Stihl", "Stone Island", "Swatch"],
         "pflanze": ["Salbei", "Seegras", "Salat", "Sonnenblume"]
@@ -244,7 +244,7 @@
         "land": ["Es gibt leider kein Land mit dem Anfangsbuchstaben Y"],
         "fluss": ["Yukon (USA)", "Yalong (China)", "Yamuna (Inden)"],
         "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin"],
-        "beruf": ["Youtuber", "Yachtbauer", "Yogalehrer"],
+        "beruf": ["YouTuber", "Yachtbauer", "Yogalehrer"],
         "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan Blauhäher", "Yucatan-Hörnchen"],
         "marke": ["Yamaha", "Yeti", "Ykk", "York Fitness"],
         "pflanze": ["Yucca"]
